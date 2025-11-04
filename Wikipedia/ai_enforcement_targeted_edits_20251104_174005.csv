@@ -1,0 +1,117 @@
+article,timestamp,user,revid,size,edit_summary,action_type,policies_cited
+ChatGPT,2025-10-21T00:07:55Z,Avertcool,1317945891,174074,clarified that this is not a complete list of ChatGPT’s abilities,other,None
+ChatGPT,2025-10-01T06:40:27Z,Alenoach,1314404430,171578,This is actually no longer true (https://www.theverge.com/news/679580/chatgpt-google-drive-dropbox-meeting-notes),other,None
+ChatGPT,2025-09-28T23:19:31Z,Alenoach,1313945448,170836,"Operator is a discontinued service, not a ChatGPT Agent",other,None
+ChatGPT,2025-09-17T22:18:19Z,Mikeblas,1311966581,171017,/* Copyright */ restore mental health section with ChatGPT-specific citations; see talk page,other,WP:COPIED
+ChatGPT,2025-09-09T09:37:49Z,EditForImpact,1310394486,171206,"/* Reception */ Added 2024 milestone on ChatGPT reaching 365B annual searches, surpassing Google’s 2009 record, with citation from Economic Times (June 2025).",other,None
+ChatGPT,2025-08-28T08:40:05Z,Meow,1308237382,171689,"/* Model versions */ GPT-4.1, GPT-4.5 (Pro users only), o3 and o4-mini are available as legacy models for paid users.",other,None
+ChatGPT,2025-08-27T10:15:36Z,Zeusshomaly,1308076474,172468,"Added On August 26 2025, the company behind ChatGPT, [[OpenAI]] is getting sued after a family's son has took his own life from using ChatGPT.<ref>https://www.bbc.com/news/articles/cgerwp7rdlvo</ref> under law. if in the wrong spot, please fix, apologies :)",other,None
+ChatGPT,2025-08-25T22:20:35Z,Rc2barrington,1307822269,171767,Updated ChatGPT screenshot,other,None
+ChatGPT,2025-08-13T16:59:43Z,Belbury,1305709623,170692,"/* Reception */ temporarily removing [[:File:Chatgpt usage.svg]] and notifying creator - the X axis has the wrong positions (February 2024 is not closer to March 2025 than July 2023), so the curve of the line is wrong",removal,None
+ChatGPT,2025-08-09T11:35:54Z,Xose.vazquez,1304992710,172727,/* Model versions */ ChatGPT is bringing back 4o as an option because people missed it : https://www.theverge.com/news/756980/openai-chatgpt-users-mourn-gpt-5-4o,other,None
+ChatGPT,2025-08-08T06:06:36Z,Xose.vazquez,1304796643,172730,/* GPT-4.5 */,other,None
+ChatGPT,2025-07-31T19:28:44Z,Cosmia Nebula,1303568504,174364,/* ChatGPT agent */ details on ChatGPT agent,other,None
+ChatGPT,2025-07-25T16:24:19Z,Czarking0,1302472011,171008,/* Training */ not about training. Also relies a lot on primary sources. The secondary sources are good info about how ChatGPT is used so if more detail is needed on that then these sources should be used in the right spot,other,None
+ChatGPT,2025-07-22T03:09:33Z,Czarking0,1301856500,170887,Undid revision [[Special:Diff/1301854511|1301854511]] by [[Special:Contributions/Maxeto0910|Maxeto0910]] ([[User talk:Maxeto0910|talk]]) should follow [[WP:BRD]] respond on talk if you want further. A web crawler is a pattern of traversing the internet where there is no search goal in mind it crawls in order to record the internet and its topology. ChatGPT web browsing is not doing that.,revert,None
+ChatGPT,2025-07-21T01:07:32Z,Czarking0,1301653076,168486,/* Languages */ I reviewed google scholar searches for performance assesment of ChatGPT across languages. There were none worth citing. I think it is telling that only these sources which are not the highest quality make this claim and they do not make it based on a controlled study. Given performance of ChatGPT Agent being better in not english I think it is best to widthdraw this claim,other,None
+ChatGPT,2025-07-20T04:24:38Z,Grayfell,1301494400,170469,"/* Medicine */  ""Provide utility""  is the kind of meaninglessly vague filler that ChatGPT would say about itself. Having many sources isn't enough. Summarize what those sources are saying without bland platitudes.",other,None
+ChatGPT,2025-07-20T00:45:47Z,Grayfell,1301465904,177221,/* ChatGPT agent */  [[WP:NOTPR]],other,None
+ChatGPT,2025-07-19T20:56:55Z,Alenoach,1301435798,177933,Modified a sentence on ChatGPT Agent,other,None
+ChatGPT,2025-07-19T20:00:25Z,Alenoach,1301428648,177874,"Moved ""ChatGPT agent"" from ""Model versions"" to ""Features"" and rephrased a sentence",other,None
+ChatGPT,2025-07-18T10:56:37Z,Ryeartic,1301160149,178390,"Added information about ChatGPT's foundation on Google's Transformer architecture, citing the 2017 paper 'Attention Is All You Need'.",other,None
+ChatGPT,2025-07-18T04:46:57Z,Maxeto0910,1301112859,177382,"My error: It indeed seems to be stylized as ""ChatGPT agent"" on the official website, though not on the German website and most online articles refer to it as ""ChatGPT Agent"", so I couldn't directly know.",other,None
+ChatGPT,2025-07-18T03:11:53Z,Duckmather,1301103054,178184,/* Model versions */ add ChatGPT agent to table,other,None
+ChatGPT,2025-07-18T03:02:46Z,Duckmather,1301101855,178069,/* Model versions */ rephrase ChatGPT agent subsection,other,None
+ChatGPT,2025-07-18T02:58:22Z,Duckmather,1301101308,178195,/* Service */ mention ChatGPT agent mode,other,None
+ChatGPT,2025-07-17T20:04:29Z,Guacpocalypse,1301043188,177093,Added info about new ChatGPT agent,other,None
+ChatGPT,2025-07-17T06:57:44Z,Grayfell,1300941256,178708,Source doesn't verify claim. Use your human brain to verify sources found via ChatGPT.,other,None
+ChatGPT,2025-07-14T03:33:29Z,Alenoach,1300399580,180600,"Trimmed some of the more verbose, anecdotal or outdated content of the ""Medicine"" section ([[Talk:ChatGPT#What_to_do_with_the_""Medicine""_subsection?|discuss]])",other,None
+ChatGPT,2025-07-14T00:57:15Z,Czarking0,1300381503,190100,/* American tech personas */ focus more on parts relevant to ChatGPT,other,None
+ChatGPT,2025-07-13T16:03:22Z,Czarking0,1300313093,190979,/* GPT Store */ rewrite a bit to focus more on the relevant parts for readers of [[ChatGPT]],other,None
+ChatGPT,2025-07-10T20:04:54Z,Newslinger,1299850429,190985,/* See also */ Link [[List of large language models]]. Alphabetize,other,None
+ChatGPT,2025-07-09T02:24:35Z,Alenoach,1299546250,188454,"Moved the content of the subsection ""Mental health"" to [[Artificial intelligence in mental health]] ([[Talk:ChatGPT#ChatGPT_Psychosis_is_undue_weight|discussion]])",other,None
+ChatGPT,2025-07-07T15:54:17Z,Czarking0,1299300294,191336,/* Mental health */ This is about openai and mattel not about chatgpt,other,None
+ChatGPT,2025-07-07T09:57:12Z,MtPenguinMonster,1299258264,192930,/* Mental health */ Added link for ChatGPT Psychosis,other,None
+ChatGPT,2025-07-07T00:23:58Z,Alenoach,1299188904,192926,"Shortened a sentence to make it easier to understand (also, GPT-4o is directly used to generate text, speech, and images)",other,None
+ChatGPT,2025-07-04T13:22:57Z,Alenoach,1298756213,192975,"Moved the paragraph on Patronus AI's benchmark to the article [[Financial statement analysis]], as it is not specific to ChatGPT",other,None
+ChatGPT,2025-07-03T13:22:18Z,CommonKnowledgeCreator,1298599508,194494,/* Financial markets */ Restored Patronus AI content; content is about ChatGPT,other,None
+ChatGPT,2025-06-20T01:44:04Z,Czarking0,1296445199,187813,/* Features and limitations */ none of these sources categorize watermarking as a feature of ChatGPT it is something OpenAI could do in the future or has conducted research into but not actually included in the product of ChatGPT,other,None
+ChatGPT,2025-06-15T02:28:17Z,Czarking0,1295654647,187658,"/* Reception */ undue weight, this is more illustrative of how mental health and schizophrenia presents than ChatGPT",other,None
+ChatGPT,2025-06-14T22:24:23Z,Jamedeus,1295620673,188614,/* Mental health concerns */ Most of this is related to chatbots in general (not chatgpt in particular) and would be better suited to [[Artificial intelligence in mental health]]. Trimming to just the NYT source and adding specific details.,other,None
+ChatGPT,2025-06-14T22:06:21Z,Alenoach,1295618787,192260,Removed two anecdotal sentences on China and the neutrality tag (see [[Talk:ChatGPT#Neutrality_tag|the discussion]]),"warning, removal",None
+ChatGPT,2025-06-12T19:12:46Z,Czarking0,1295271804,188782,/* Infrastructure */ not about chatgpt,other,None
+ChatGPT,2025-06-12T18:36:00Z,Czarking0,1295267228,191337,/* GPT-4 */ swap to excerpt,other,None
+ChatGPT,2025-06-12T18:33:24Z,Czarking0,1295266909,192626,/* GPT-4 */ this is outdated to the point that it is misleading,other,None
+ChatGPT,2025-06-12T18:32:41Z,Czarking0,1295266830,193222,/* GPT-4 */ not about chat gpt,other,None
+ChatGPT,2025-06-12T15:24:32Z,Czarking0,1295241734,200792,/* Culture */ the study itself is obviously designed to generate the conclusion the authors wanted (tossing out NA) but even if that is ignored it does not support the claim that ChatGPT is antisemitic,other,None
+ChatGPT,2025-06-06T10:37:52Z,Eterin,1294217690,205697,"""ChatGPT"" was repeated too many times",other,None
+ChatGPT,2025-06-05T10:37:52Z,SoerenMind,1294064194,205627,Updating features because ChatGPT is no longer accurately described as a chatbot.,other,None
+ChatGPT,2025-06-01T02:07:39Z,Alenoach,1293320268,207676,"Marked GPT-4o mini as discontinued, it was replaced by GPT-4.1 mini",other,None
+GPTZero,2025-04-12T14:15:30Z,Gotitbro,1285237420,11988,+[[Category:ChatGPT]]; +[[Category:Plagiarism detectors]] using [[WP:HC|HotCat]],other,None
+GPTZero,2024-06-23T19:12:45Z,Conan,1230620746,10555,Bot: Removing category [[:Category:Applications of artificial intelligence]] because it's already under [[:Category:Large language models]],removal,None
+GPTZero,2023-12-14T02:30:58Z,Ca,1189798997,14112,"Added {{[[Template:AI-generated|AI-generated]]}} tag: Ironically, some parts of this article seems to be written by an AI",warning,None
+Generative pre-trained transformer,2025-07-21T00:09:23Z,Amberkitten,1301645581,66518,"The source doesn't actually say GPT-3.5 has 175bn parameters. It only says that about GPT-3. In fact, it would be surprising if the parameter count was exactly the same.",other,None
+Generative pre-trained transformer,2025-05-11T21:16:04Z,Pentiummariii3,1289946247,66779,"This article is outdated as, newer GPTs, such as GPT-4.1 are out, but this still lists GPT-4o as the newest",other,None
+Generative pre-trained transformer,2025-03-24T10:54:06Z,Citation bot,1282106760,50799,"Add: date, authors 1-1. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Dominic3203 | [[Category:Large language models]] | #UCB_Category 7/62",other,None
+Generative pre-trained transformer,2025-01-11T08:27:01Z,Citation bot,1268739850,50771,Added date. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Dominic3203 | [[Category:Large language models]] | #UCB_Category 4/51,other,None
+Generative pre-trained transformer,2024-12-31T15:25:11Z,Paillat,1266428103,50756,Add Distinguish to ChatGPT,other,None
+Generative pre-trained transformer,2024-11-19T05:01:22Z,Theinstantmatrix,1258346494,50594,"L4,139: Revert non-notable ([[WP:WTAF]]) models, linking to them directly as citations does not make it reliable. L4: Unsourced (A story from Wired has the company say that OpenAI o1 is a ""complement"" to GPT-4o, not a successor).",revert,None
+Generative pre-trained transformer,2024-11-18T22:38:14Z,GregariousMadness,1258243022,51660,Add mention of [[OpenAI o1]] as the successor to [[GPT-4o]],other,None
+Generative pre-trained transformer,2024-11-09T00:31:04Z,84.20.225.61,1256252842,50749,"Updated the sentance about the latest release of the GPT series LLMs from OpenAI. The information was outdated - stating GPT-4 in March 2023, while GPT-4o was released in May of 2024.",other,None
+Generative pre-trained transformer,2023-12-06T19:19:44Z,InfiniteNexus,1188643863,42287,/* See also */ +[[Gemini (language model)]],other,None
+Generative pre-trained transformer,2023-08-13T21:25:02Z,2600:1700:6790:3D10:FD53:EC1:DC17:FDA7,1170231244,40927,"/* Domain-specificity */ ChatGPT was covered above, under task-specificity...",other,None
+Generative pre-trained transformer,2023-06-26T22:10:23Z,Estadje,1162081776,39281,/* Later developments */ some ce + added a mention of GPT-4,other,None
+Generative pre-trained transformer,2023-06-24T00:27:42Z,Cosmia Nebula,1161632326,38872,/* The GPT-3 family */ move cite,other,None
+Generative pre-trained transformer,2023-06-24T00:27:17Z,Cosmia Nebula,1161632280,38872,/* History */ GPT-3 family,other,None
+Generative pre-trained transformer,2023-04-16T15:55:09Z,Estadje,1150150119,11721,"From the ref: ""The researchers ... use the terms large language models (LLMs) and GPTs interchangeably.""",other,None
+Generative pre-trained transformer,2023-04-10T00:37:42Z,Estadje,1149066811,11279,"Just trying another ref for the 1st clause; hopefully this one is better (it appears to be listed as ""reliable""). [From the ref: ""GPT stands for generative pre-trained transformer which is a type of large language model (LLM)...""]",other,None
+Generative pre-trained transformer,2023-04-09T23:57:20Z,Estadje,1149062091,11164,"Added a ref for this. [From the ref: ""All of today’s well-known language models—e.g., GPT-3 from OpenAI, PaLM or LaMDA from Google, Galactica or OPT from Meta, Megatron-Turing from Nvidia/Microsoft, Jurassic-1 from AI21 Labs—are built in the same basic way.""]",other,None
+Generative pre-trained transformer,2023-04-06T17:14:59Z,Estadje,1148516916,9432,Undid revision 1148516200 by [[Special:Contributions/Kunoichi.k|Kunoichi.k]] ([[User talk:Kunoichi.k|talk]]) there's a separate article on GPT-4; this isn't it...,revert,None
+Generative pre-trained transformer,2023-04-06T07:58:48Z,Estadje,1148456786,8966,"/* Foundational GPT models */ incorporated mention of GPT-3.5 in the table (albeit in the context of GPT-3, as that's how it's covered in that article...)",other,None
+Generative pre-trained transformer,2023-04-05T14:53:21Z,Colin M,1148333621,8520,"/* History */ ""pioneered"" is not really supported the source. Section 2 makes it clear that there was already existing work in doing transfer learning on pretrained language models. They give two examples of past work that does basically the same thing but with LSTMs rather than a transformer.",other,None
+Generative pre-trained transformer,2023-04-05T14:45:02Z,Colin M,1148332644,8516,"/* History */ This source is not really directly relevant to GPT. (And a slide deck from a then-postdoc is pretty borderline as an RS anyways). If this belongs anywhere, it's somewhere like [[language model]]",other,None
+Generative pre-trained transformer,2023-04-05T14:32:00Z,Colin M,1148330788,9289,"I think the previous wording of the first sentence is still slightly better, as it makes it a bit clearer that the scope of this article is specifically the GPT-n language models developed by OpenAI, rather than some more generic technique/architecture/paradigm that OpenAI introduced (see talk page discussion)",other,None
+Generative pre-trained transformer,2023-04-05T14:15:44Z,Colin M,1148328342,9329,"Move coverage of InstructGPT and ChatGPT into separate section, keeping the previous section for just the ""mainline"" numbered foundation models",other,None
+Generative pre-trained transformer,2023-03-21T18:23:21Z,Sfm7,1145915928,8115,GPT-3 release reference,other,None
+Generative pre-trained transformer,2023-03-15T01:04:51Z,Mindmatrix,1144684588,7362,/* History */ add empty row for [[GPT-4]] to table for completeness,other,None
+Generative pre-trained transformer,2023-03-13T18:06:06Z,Colin M,1144424194,7315,"Add [[Category:Large language models]], subsuming some existing cats",other,None
+Generative pre-trained transformer,2023-03-13T10:10:22Z,Soustruh,1144362286,7572,Correct GPT-3.5 link,other,None
+Generative pre-trained transformer,2023-02-21T00:27:41Z,Kameshpatil,1140628696,7422,What is ChatGPT,other,None
+Generative pre-trained transformer,2023-02-09T20:37:01Z,JPxG,1138461351,7092,"/* Uses */ it isn't built on top of gpt-3.5, it IS gpt 3.5",other,None
+Hallucination (artificial intelligence),2025-10-23T21:46:40Z,هیوا,1318441618,76037,ChatGPT model version in yhe paper,other,None
+Hallucination (artificial intelligence),2025-09-22T13:45:14Z,Tahir.ikhan,1312764629,73537,Hallucination in Large Language Models,other,None
+Hallucination (artificial intelligence),2025-09-16T07:47:58Z,DancingPhilosopher,1311657735,73745,<ref>https://theconversation.com/why-openais-solution-to-ai-hallucinations-would-kill-chatgpt-tomorrow-265107</ref>,other,None
+Hallucination (artificial intelligence),2025-09-16T07:08:26Z,DancingPhilosopher,1311652679,73042,https://theconversation.com/why-openais-solution-to-ai-hallucinations-would-kill-chatgpt-tomorrow-265107,other,None
+Hallucination (artificial intelligence),2025-08-24T22:33:13Z,Alenoach,1307649717,73219,"Removed a sentence: focusing on the results of the worst LLMs from 2023 on a particular benchmark is misleading (e.g. ChatGPT was at 3% in 2023, not at 27%, and recent LLMs now score around 1% on that benchmark: https://github.com/vectara/hallucination-leaderboard)",removal,None
+Hallucination (artificial intelligence),2025-08-09T18:31:53Z,Strategio,1305043226,72173,Updated ChatGPT model.,other,None
+Hallucination (artificial intelligence),2025-01-02T09:10:42Z,Jonasmueller,1266811155,68489,mention Trustworthy Language Model as tool for detecting hallucinations,other,None
+Hallucination (artificial intelligence),2024-02-22T14:17:56Z,Epicgenius,1209562009,40571,/* ChatGPT */Ce,other,None
+Hallucination (artificial intelligence),2024-02-22T14:16:32Z,Epicgenius,1209561839,40551,"/* ChatGPT */Fix grammar, as it was not clear whom the clause at the end of the sentence referred to",other,None
+Hallucination (artificial intelligence),2024-02-11T13:42:26Z,Richard Nowell,1206200981,40540,/* ChatGPT */ deleted references that used Twitter as source [[WP:TWITTER]] and [[WP:NOSOCIAL]].,removal,None
+Hallucination (artificial intelligence),2023-09-30T17:30:38Z,Smeagol 17,1177949616,29422,/* ChatGPT */,other,None
+Hallucination (artificial intelligence),2023-07-27T10:08:24Z,Nisarsameja,1167372134,29177,What is chatgpt | how to use chatgpt,other,None
+Hallucination (artificial intelligence),2023-07-11T23:54:18Z,Neocorelight,1164928102,28001,/* ChatGPT */,other,None
+Hallucination (artificial intelligence),2023-07-05T00:37:54Z,72.46.2.163,1163459342,28006,/* ChatGPT */Minor but obvious typo,other,None
+Hallucination (artificial intelligence),2023-07-01T02:37:44Z,LaundryPizza03,1162775450,28006,/* ChatGPT */,other,None
+Hallucination (artificial intelligence),2023-07-01T02:36:57Z,LaundryPizza03,1162775292,28007,/* ChatGPT */,other,None
+Hallucination (artificial intelligence),2023-07-01T02:36:39Z,LaundryPizza03,1162775242,28007,/* ChatGPT */ Defamation court in the US against,other,None
+Hallucination (artificial intelligence),2023-06-28T13:36:03Z,Karlaz1,1162340716,28631,New OpenAI strategy for combating hallucinations (process supervision) and addressing ChatGPT hallucinations through the use of plugins.,other,None
+Hallucination (artificial intelligence),2023-06-26T11:11:06Z,LaundryPizza03,1162001199,26761,/* ChatGPT */ [[Brantley Starr]],other,None
+Hallucination (artificial intelligence),2023-06-26T10:37:58Z,LaundryPizza03,1161998349,25173,/* ChatGPT */,other,None
+Hallucination (artificial intelligence),2023-06-26T09:22:07Z,LaundryPizza03,1161990752,23684,/* ChatGPT */,other,None
+Hallucination (artificial intelligence),2023-06-13T11:33:35Z,2001:A18:A:6813:996:8530:40CE:2E62,1159924725,23464,Added a citation recounting Teresa's Kubacka experinece with chatGPT hallucinations,other,None
+Hallucination (artificial intelligence),2023-05-14T17:00:34Z,Bob20230408,1154787032,22119,changed release date of ChatGPT and removed one example,removal,None
+Hallucination (artificial intelligence),2023-05-14T13:23:15Z,2A00:23C5:FE18:2701:BDEA:8110:1C31:1F2C,1154756901,22449,/* ChatGPT */ do not link to imaginary person's name,other,None
+Hallucination (artificial intelligence),2023-04-29T13:58:53Z,Estadje,1152316121,21488,/* ChatGPT */,other,None
+Large language models,2023-03-09T19:10:20Z,Colin M,1143765119,34,[[WP:AES|←]]Redirected page to [[Large language model]],other,None
+Prompt engineering,2025-10-13T19:25:00Z,Helpful Raccoon,1316654697,41593,"Restored revision 1315800785 by [[Special:Contributions/63.92.3.228|63.92.3.228]] ([[User talk:63.92.3.228|talk]]): AI-generated hallucinations; there is no ""secure chain-of-thought""",other,None
+Prompt engineering,2025-05-09T17:06:19Z,Alenoach,1289603171,40631,"Modified content on text-to-image models (precised ""early"" because it doesn't seem true anymore with models like GPT-4o)",other,None
+Prompt engineering,2025-01-18T17:14:46Z,XOR'easter,1270249717,56484,"/* Using language models to generate prompts */ unreviewed arXiv preprints are bad enough (unusable in nearly all circumstances), but one that has explicitly been rejected is like an anti-[[WP:RS]]",other,WP:RS
+Prompt engineering,2024-01-26T21:28:05Z,Lwneal,1199352541,56292,"""Text-to-text"" is used here as a synonym for ""Language Model""",other,None
+Prompt engineering,2023-12-19T11:32:52Z,FactsFolio,1190711222,57150,"I edited the content for Prompting in disclose uncertainty, Changes focuses on the complexity of assessing reliability in Large Language Models (LLMs) and emphasising uncertainty quantification (UQ) in black-box LLMs. Proposed metrics for handling uncertain outputs, derived from experiments on question-answering datasets, were incorporated, as well as information on evaluating these large language models.",other,None
+Prompt engineering,2023-11-09T22:23:26Z,Lwneal,1184353909,56035,"/* Prompt injection */ Clarify difference between GPT-3 and GPT-4, replace [[WP:OR]] with summary of cited sources",other,None
+Prompt engineering,2023-11-06T19:19:25Z,Lcscnc,1183827937,55155,/* Using language models to generate prompts */ added citations,other,None
+Prompt engineering,2023-10-17T16:20:48Z,83.39.48.47,1180591437,53586,/* Example */ Updated the tenses and the fact that this attack does not work on Chat GPT-4.,other,None
+Prompt engineering,2023-08-18T08:40:57Z,DancingPhilosopher,1170975230,49098,"""primarily used in communication with a [[Large language model|text-to-text model]]""; clarified what enables what",other,None
+Prompt engineering,2023-08-18T08:11:09Z,DancingPhilosopher,1170972023,48801,"/* Chain-of-thought */ ""...is, like the other prompt-engineering techniques, enabled by in-context learning. In-context learning itself is an [[large language model#Emergent abilities|emergent property of model scale]]""",other,None
+Prompt engineering,2023-07-24T14:44:26Z,DancingPhilosopher,1166912414,39235,Lede approved by ChatGPT (3.5) :-) see Talk Page,other,None

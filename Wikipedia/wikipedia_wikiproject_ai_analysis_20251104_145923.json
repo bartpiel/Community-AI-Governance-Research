@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Wikipedia:WikiProject African environment",
+    "watchers": 0,
+    "monthly_views": 8,
+    "main_page_ai_content": false,
+    "main_page_ai_count": 0,
+    "subpages": [],
+    "ai_policy_pages": [],
+    "total_ai_references": 0,
+    "has_specific_ai_policy": false
+  },
+  {
+    "title": "Wikipedia:WikiProject Women Do News",
+    "watchers": 0,
+    "monthly_views": 36,
+    "main_page_ai_content": true,
+    "main_page_ai_count": 2,
+    "subpages": [
+      "Wikipedia:WikiProject Women Do News/Article assessment statistics",
+      "Wikipedia:WikiProject Women Do News/Missing articles"
+    ],
+    "ai_policy_pages": [
+      {
+        "title": "Wikipedia:WikiProject Women Do News/Article assessment statistics",
+        "ai_count": 3,
+        "size": 364,
+        "ai_sections": [
+          {
+            "title": "Introduction",
+            "content": "{|style=\"text-align:center\"\n|-\n|style=\"text-align: center;\" | \n''This table is automatically updated by [[User:Oleg Alexandrov|Oleg Alexandrov]]'s [[User:WP 1.0 bot|WP 1.0 bot]].''<br/>\n''See [[Wikipedia:Version 1.0 Editorial Team/Women Do News articles by quality log|the log]] for the latest changes.''<br/>\n{{User:WP 1.0 bot/Tables/Project/Women Do News}}\n|-\n|}\n",
+            "level": 0,
+            "ai_references": 3
+          }
+        ],
+        "last_modified": "2024-01-01T20:31:58Z",
+        "url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_Do_News/Article_assessment_statistics"
+      }
+    ],
+    "total_ai_references": 5,
+    "has_specific_ai_policy": false,
+    "main_page_ai_sections": [
+      {
+        "title": "Past Events",
+        "content": "''Main page: [https://www.womendonews.org/events WomenDoNews.org/Events]''\n* '''[https://calendar.app.google/qBDiRD2Cg7bGJdQk7 Women Do News + Wikimedia New York City in person edit-a-thon!]'''\n: More than two dozen people attended the Women Do News and WikimediaNYC on '''Thursday, July 17 from 5-9pm ET in Manhattan''' edit-a-thon focus on improving and increasing pages about women and woman-identified journalists on Wikipedia. \n* '''[[Wikipedia:Meetup/NYC/Wikipedia_Day_2025|Wikipedia Day NYC 2025]]''' was convened by Wikimedia NYC and took place on Saturday, January 25, 2025 at the [[Brooklyn Public Library]]'s central branch. We organized and moderated a fireside chat about \"Reliable Sources,\" with [[Wikipedia in culture|tech journalist and writer Stephen Harrison]] and  [[Clay Shirky]].\n* Gather Wikipedia Edit-a-thon \n* [[Wikipedia:Meetup/NYC/Wikidata_Day_2024|Wikidata Day in New York City]], an event convened by [[Wikipedia:Meetup/NYC|Wikimedia NYC]] on '''Saturday, October 26, 2024''', marks the [[d:Wikidata:Twelfth Birthday|12th Birthday]] of [[Wikidata]] with a celebration and mini-conference. The event will be hosted by and held at [[Pratt Institute School of Information]] in collaboration with [[Girls Who Code]].\n* '''[https://mediaparty.org/en/media-party-new-york-2024 Media Party 2024]''': A Hands-on Conference and hackathon on the Future of Journalism, AI, and Their Impact on Democracies at [https://en.wikipedia.org/wiki/Brown The Brown Institute] at [[Columbia University Graduate School of Journalism|Columbia Journalism School]]. We attended this event, convened as a global hub for sparking innovative dialogues around the media ecosystem. \n*'''[https://2024.srccon.org/schedule/#_session-basic-self-defense SRCCON Basic self-defense class with Women Do News]''' Jiujitsu world champion Larissa Dias and Women Do News’ Mariko Lochridge  led an intro to self defense for journalists. How do you stand your ground if you’re being harassed at a rally or protest? What should you do if you’re pinned against the wall or knocked to the ground?\n*[[Wikipedia:Meetup/NYC/Wikipedia Day 2024|'''Wikipedia Day 2024 NYC''']]\n\n:We appeared on the panel \"Bias, AI & Wikipedia: Problems, Progress and Projects Panel\" at Wikipedia Day 2024 in New York City, hosted by the [[Brown Institute for Media Innovation]] at [[Columbia University]] with [[Wikimedia NYC]].\n*[[WikiConference North America|'''WikiConference North America 2023''']]\n:We held an edit-a-thon at WikiConference North America 2023 in Toronto.\n*[https://newsroom.journalists.org/2023/08/26/women-do-news-is-closing-the-gender-gap-on-wikipedia/ '''Online News Association (ONA) Conference 2023''']\n:We ran an edit-a-thon at the 2023 Online News Association Conference in Philadelphia. \n*[https://jaws.org/classic-shop/jaws2023-camp/ '''JAWS Camp 2023''']\n:Women Do News was featured at the annual Journalism and Women Symposium Camp in Chicago. We ran an edit-a-thon and collected nominees (two stubs for women journalists made!) and gave flash talks, bringing more people into our volunteer fold.\n*[https://aaja22owningournarratives.sched.com/event/179OB/owning-the-narrative-online-getting-asian-american-journalists-their-due-on-wikipedia-in-partnership-with-women-do-news '''Asian American Journalists Association 2022''']\n:Women Do News was at the Asian American Journalists Association, with a panel and guerrilla editing throughout the conference. Media reporter Ada Tseng hosted two of our board members in a conversation called \"Owning the Narrative,\" about representation and what we can do about improving it.\n*[https://womendonews.org/2022/04/19/changing-the-face-of-news/ '''2022 Changing the Face of News''']\n:[https://www.letsgather.in/ Gather], a collaborative community journalism project led by the Agora Journalism Center at the University of Oregon’s School of Journalism & Communication, hosted Women Do News and The 19th for a lightning chat about women in media: bridging the gender gap in the journalism industry and reporting inclusively on gender, politics and policy.\n*[https://womendonews.org/2022/03/05/aejmc-2022-midwinter-conference-correcting-the-record/ '''AEJMC 2022 Midwinter Conference: Correcting the record''']\n:We led a workshop at the AEJMC 2022 Midwinter Conference. The Association for Education in Journalism and Mass Communication is the organization for educators, students and media professionals who are training the next generation of journalists.\n*[https://pheedloop.com/CAMP2021/site/sessions/?event=CAMP2021&section=105887&id=SES1SDCN7TNGRN614 '''JAWS Camp 2021 Edit-a-thon: Increasing equality of women journalists on Wikipedia''']\n:At this event, we gave a 20-minute presentation to attendees of the Journalism and Women's Symposium annual conference on volunteer editing and adding articles to Wikipedia, followed by a 40-minute edit-a-thon.\n*[https://www.journalism.co.uk/news/why-we-need-more-biographies-of-women-journalists-on-wikipedia/s2/a860859/ '''Hacks/Hackers London''']\n:We joined Hacks/Hackers London to talk about our work and how Wikipedia can affect the safety and credibility of women journalists. Journalism.co.uk reported on the event.\n*[https://womendonews.org/2021/01/25/jaws-women-do-news-edit-a-thon-write-admired-women-journalists-into-history/ '''JAWS Camp 2021 + Women Do News edit-a-thon: Write admired women journalists into history''']\n:We partnered with JAWS, the long-standing American journalism organization that supports women in news, to host a mini edit-a-thon. We discussed our mission and then started creating entries for your nominees. It was held for the public; no JAWS membership was needed. \n*[https://womendonews.org/2020/11/16/take-the-lead-edit-a-thon-seeking-parity-through-wikipedia-representation/ '''Take The Lead Edit-a-Thon: Seeking parity through Wikipedia representation''']\n:In 2019, Women Do News held our first in-person edit-a-thon: [[Wikipedia:Meetup/NYC/Women Do News Edit-a-thon @ Luminary in NYC|Women Do News Edit-a-thon @ Luminary in NYC.]]\n*[https://calendar.google.com/calendar/u/0/r/month/2023/11/28?eid=MTY4b2NwOGVqdWlwZjgxc3ZnaHRvcWttcTZfMjAyMzExMjlUMDEwMDAwWiB3b21lbmRvbmV3c0Bt&ctz=America/Los%20Angeles '''Monthly Flash Edits''']\n: '''''(Note: Women Do News monthly flash edits are currently on hiatus. If you are interested in organizing a flash or virtual edit, get in touch!)''''' Women Do News monthly flash edits are a great place to start volunteering for this organization. Meet on Zoom to work on articles, update each other on how our Wiki writing has been going, and generally check-in. Flash edits are a very low-key place to connect with other Wiki volunteers and troubleshoot the writing and editing process. Feel free to bring a beverage or a snack and come hang out. \n\n",
+        "level": 2,
+        "ai_references": 2
+      }
+    ]
+  }
+]
