@@ -1,10 +1,10 @@
-# Community AI Governance Research - For Colleagues
+# Community AI Governance Research - For Potential Collaborators
 
 **Quick Start Guide for Reviewers**
 
 ---
 
-## 📬 What You're Looking At
+## What You're Looking At
 
 This is a **comparative research project** studying how different open communities govern AI-generated contributions. Think of it as investigating:
 
@@ -12,7 +12,7 @@ This is a **comparative research project** studying how different open communiti
 
 ---
 
-## 🎯 The Big Question
+## The Big Question
 
 **How do community-driven projects develop governance around AI/LLMs when:**
 - No universal standards exist
@@ -22,9 +22,9 @@ This is a **comparative research project** studying how different open communiti
 
 ---
 
-## 📊 What's Complete vs. What's Coming
+## What's Complete vs. What's Coming
 
-### ✅ **COMPLETE: Wikipedia Deep Dive**
+### **COMPLETE: Wikipedia Deep Dive**
 
 **Dates**: October 30 - November 4, 2025
 **Status**: Fully analyzed, documented, ready for review
@@ -35,7 +35,7 @@ This is a **comparative research project** studying how different open communiti
 - Through bottom-up community norms, not top-down rules
 - We call this the **"Invisible Policy Paradox"**
 
-### 🔄 **IN PROGRESS: Foundation Analysis**
+### **IN PROGRESS: Foundation Analysis**
 
 **Status**: Framework and tools ready, execution pending
 
@@ -49,12 +49,12 @@ This is a **comparative research project** studying how different open communiti
 
 ---
 
-## 📁 Repository Guide
+## Repository Guide
 
 ### Start Here (15 minutes)
 
 1. **[This README](README.md)** - Repository overview
-2. **[Wikipedia/EXECUTIVE_SUMMARY.md](Wikipedia/EXECUTIVE_SUMMARY.md)** - Complete Wikipedia findings ⭐
+2. **[Wikipedia/EXECUTIVE_SUMMARY.md](Wikipedia/EXECUTIVE_SUMMARY.md)** - Complete Wikipedia findings 
 
 ### For Deep Understanding (2-3 hours)
 
@@ -68,7 +68,7 @@ This is a **comparative research project** studying how different open communiti
 
 ---
 
-## 🔍 Wikipedia Findings - The Highlights
+## Wikipedia Findings - The Highlights
 
 ### The Numbers
 
@@ -131,7 +131,7 @@ Editors developed informal vocabulary:
 
 ---
 
-## 🎓 Why This Matters
+## Why This Matters
 
 ### For Wikipedia Itself
 
@@ -165,7 +165,7 @@ Shows that **informal governance can work**:
 
 ---
 
-## 📈 What We Found: Timeline
+## What We Found: Timeline
 
 ### Wikipedia AI Governance Evolution
 
@@ -180,7 +180,7 @@ Shows that **informal governance can work**:
 
 ---
 
-## 🔬 Methodology Overview
+## Methodology Overview
 
 ### What We Did for Wikipedia
 
@@ -209,7 +209,7 @@ Shows that **informal governance can work**:
 
 ---
 
-## 💡 Interesting Discoveries
+## Interesting Discoveries
 
 ### 1. The "Hallucination Problem" Drives Policy
 
@@ -250,7 +250,7 @@ Shows that **informal governance can work**:
 
 ---
 
-## 🎯 Comparative Framework (Coming Next)
+## Comparative Framework (Coming Next)
 
 ### What We'll Compare
 
@@ -266,24 +266,24 @@ Shows that **informal governance can work**:
 ### Key Questions
 
 1. **Is code detection easier than text detection?**
-   - Code has patterns, style, syntax
-   - But also more complex
+ - Code has patterns, style, syntax
+ - But also more complex
 
 2. **Do foundations formalize faster?**
-   - Organizational resources
-   - Legal concerns (licenses)
+ - Organizational resources
+ - Legal concerns (licenses)
 
 3. **Does ideology matter?**
-   - FSF (freedom-focused) vs. Apache (quality-focused)
-   - Will outcomes differ?
+ - FSF (freedom-focused) vs. Apache (quality-focused)
+ - Will outcomes differ?
 
 4. **Can lessons transfer?**
-   - Wikipedia → Software projects
-   - Or fundamentally different?
+ - Wikipedia → Software projects
+ - Or fundamentally different?
 
 ---
 
-## 📚 File Navigation
+## File Navigation
 
 ### Essential Documents (Start Here)
 
@@ -321,9 +321,9 @@ Shows that **informal governance can work**:
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
-### For You (Colleagues)
+### For You (Potential Collaborators)
 
 **Quick Review** (30 minutes):
 1. Read this document
@@ -363,7 +363,7 @@ Shows that **informal governance can work**:
 
 ---
 
-## ❓ FAQ
+## FAQ
 
 ### "Why Wikipedia first?"
 
@@ -415,7 +415,7 @@ Shows that **informal governance can work**:
 
 ---
 
-## 🤝 How to Contribute
+## How to Contribute
 
 ### Provide Feedback
 
@@ -447,7 +447,7 @@ Shows that **informal governance can work**:
 
 ---
 
-## 📞 Contact
+## Contact
 
 **For Questions**:
 - Open an issue in this repository
@@ -460,7 +460,7 @@ Shows that **informal governance can work**:
 
 ---
 
-## 🎉 Summary for Busy Colleagues
+## Summary for Busy Potential Collaborators
 
 ### TL;DR
 

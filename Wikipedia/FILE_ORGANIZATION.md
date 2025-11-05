@@ -1,55 +1,55 @@
 # Wikipedia AI Governance - File Organization
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```
 Wikipedia/
-├── README.md                                          # Main entry point
-├── EXECUTIVE_SUMMARY.md                              # Complete findings overview ⭐
-│
-├── 📖 Analysis Reports/
-│   ├── Complete_Wikipedia_AI_Governance_Analysis.md   # Initial comprehensive analysis
-│   ├── Wikipedia_AI_Governance_Analysis_Report.md     # Executive report (early version)
-│   ├── Wikipedia_WikiProject_AI_Policy_Analysis.md    # WikiProject governance (1,096+)
-│   ├── AI_Enforcement_Preliminary_Analysis.md         # Random sampling (failed)
-│   ├── AI_Enforcement_Targeted_Analysis.md            # Targeted sampling (success)
-│   ├── Wikipedia_AI_Policy_Citation_Analysis_2025.md  # Policy citation frequency
-│   └── Wikipedia_AfD_AI_Detection_Analysis.md         # AfD deep dive ⭐
-│
-├── 🔧 Python Scripts/
-│   ├── wikipedia_ai_governance_analyzer.py            # General governance analysis
-│   ├── wikipedia_specific_governance_analyzer.py      # 42 governance pages
-│   ├── wikipedia_wikiproject_ai_analyzer.py           # WikiProject enumeration
-│   ├── wikipedia_ai_enforcement_analyzer.py           # Random sampling
-│   ├── wikipedia_ai_enforcement_targeted_analyzer.py  # Targeted sampling
-│   ├── wikipedia_policy_citation_analyzer.py          # Policy citations
-│   ├── wikipedia_ai_discussions_analyzer.py           # Current discussions
-│   ├── wikipedia_ai_talk_discussion_analyzer.py       # Talk page search
-│   └── wikipedia_afd_ai_pattern_analyzer.py           # AfD pattern analysis
-│
-└── 📊 Data Files/
-    ├── JSON (detailed results)/
-    │   ├── wikipedia_specific_governance_ai_analysis_20251030_183154.json
-    │   ├── wikipedia_wikiproject_ai_analysis_20251104_153844.json
-    │   ├── wikipedia_policy_citations_2025_20251104_175208.json
-    │   ├── wikipedia_ai_talk_discussions_20251104_180104.json
-    │   ├── wikipedia_afd_ai_patterns_20251104_180544.json
-    │   └── wikipedia_ai_discussions_analysis_20251030_183552.json
-    │
-    └── CSV (summary data)/
-        ├── wikipedia_ai_governance_pages_20251030_183154.csv
-        ├── wikipedia_wikiproject_ai_summary_20251104_153844.csv
-        ├── ai_enforcement_targeted_articles_20251104_174005.csv
-        ├── ai_enforcement_targeted_edits_20251104_174005.csv
-        ├── ai_enforcement_targeted_discussions_20251104_174005.csv
-        ├── ai_enforcement_articles_20251104_173519.csv
-        ├── ai_edit_enforcement_20251104_173519.csv
-        └── ai_talk_discussions_20251104_173519.csv
+ README.md # Main entry point
+ EXECUTIVE_SUMMARY.md # Complete findings overview 
+
+ Analysis Reports/
+ Complete_Wikipedia_AI_Governance_Analysis.md # Initial comprehensive analysis
+ Wikipedia_AI_Governance_Analysis_Report.md # Executive report (early version)
+ Wikipedia_WikiProject_AI_Policy_Analysis.md # WikiProject governance (1,096+)
+ AI_Enforcement_Preliminary_Analysis.md # Random sampling (failed)
+ AI_Enforcement_Targeted_Analysis.md # Targeted sampling (success)
+ Wikipedia_AI_Policy_Citation_Analysis_2025.md # Policy citation frequency
+ Wikipedia_AfD_AI_Detection_Analysis.md # AfD deep dive 
+
+ Python Scripts/
+ wikipedia_ai_governance_analyzer.py # General governance analysis
+ wikipedia_specific_governance_analyzer.py # 42 governance pages
+ wikipedia_wikiproject_ai_analyzer.py # WikiProject enumeration
+ wikipedia_ai_enforcement_analyzer.py # Random sampling
+ wikipedia_ai_enforcement_targeted_analyzer.py # Targeted sampling
+ wikipedia_policy_citation_analyzer.py # Policy citations
+ wikipedia_ai_discussions_analyzer.py # Current discussions
+ wikipedia_ai_talk_discussion_analyzer.py # Talk page search
+ wikipedia_afd_ai_pattern_analyzer.py # AfD pattern analysis
+
+ Data Files/
+ JSON (detailed results)/
+ wikipedia_specific_governance_ai_analysis_20251030_183154.json
+ wikipedia_wikiproject_ai_analysis_20251104_153844.json
+ wikipedia_policy_citations_2025_20251104_175208.json
+ wikipedia_ai_talk_discussions_20251104_180104.json
+ wikipedia_afd_ai_patterns_20251104_180544.json
+ wikipedia_ai_discussions_analysis_20251030_183552.json
+ 
+ CSV (summary data)/
+ wikipedia_ai_governance_pages_20251030_183154.csv
+ wikipedia_wikiproject_ai_summary_20251104_153844.csv
+ ai_enforcement_targeted_articles_20251104_174005.csv
+ ai_enforcement_targeted_edits_20251104_174005.csv
+ ai_enforcement_targeted_discussions_20251104_174005.csv
+ ai_enforcement_articles_20251104_173519.csv
+ ai_edit_enforcement_20251104_173519.csv
+ ai_talk_discussions_20251104_173519.csv
 ```
 
 ---
 
-## 📖 Reading Guide
+## Reading Guide
 
 ### For Quick Overview (15 minutes)
 1. Read `EXECUTIVE_SUMMARY.md` (sections 1-5)
@@ -74,7 +74,7 @@ Wikipedia/
 
 ---
 
-## 📊 Data File Guide
+## Data File Guide
 
 ### Key Data Files
 
@@ -103,7 +103,7 @@ These files are from preliminary analysis (kept for reproducibility):
 
 ---
 
-## 🔄 Analysis Timeline
+## Analysis Timeline
 
 ### Phase 1: Policy Analysis (Oct 30)
 - Analyzed 42 governance pages
@@ -142,36 +142,36 @@ These files are from preliminary analysis (kept for reproducibility):
 
 ---
 
-## 🎯 Key Findings Summary
+## Key Findings Summary
 
 ### Quantitative Results
 
 ```
 Policy Analysis:
-├─ Governance pages analyzed:     42
-├─ Pages with AI content:         16 (38%)
-└─ Total AI references:          581
+ Governance pages analyzed: 42
+ Pages with AI content: 16 (38%)
+ Total AI references: 581
 
 WikiProject Analysis:
-├─ Projects enumerated:        1,096+
-├─ Projects analyzed:             50
-└─ Projects with AI policies:      0 (0%)
+ Projects enumerated: 1,096+
+ Projects analyzed: 50
+ Projects with AI policies: 0 (0%)
 
 Enforcement Analysis:
-├─ Random sample hit rate:        0%
-├─ Targeted sample hit rate:     46%
-└─ AI-related edits found:       116
+ Random sample hit rate: 0%
+ Targeted sample hit rate: 46%
+ AI-related edits found: 116
 
 Policy Citations (10,000 edits):
-├─ Total citations:            1,820
-├─ AI-specific:                    0 (0.000%)
-└─ Bot/automation:               311 (17.1%)
+ Total citations: 1,820
+ AI-specific: 0 (0.000%)
+ Bot/automation: 311 (17.1%)
 
 AfD Analysis (30 discussions):
-├─ Total discussions found:      100+
-├─ Deletion rate:                59%
-├─ Keep rate:                    11%
-└─ GPTZero usage:                20%
+ Total discussions found: 100+
+ Deletion rate: 59%
+ Keep rate: 11%
+ GPTZero usage: 20%
 ```
 
 ### Qualitative Findings
@@ -201,20 +201,20 @@ AfD Analysis (30 discussions):
 
 ---
 
-## 🔬 Methodology Notes
+## Methodology Notes
 
 ### What Worked
 
-✅ **Targeted sampling** (from WikiProject AI Cleanup)
-✅ **Policy citation analysis** (quantitative measure)
-✅ **AfD discussion analysis** (real-world enforcement)
-✅ **API-based data collection** (reproducible)
-✅ **Mixed methods** (quant + qual)
+ **Targeted sampling** (from WikiProject AI Cleanup)
+ **Policy citation analysis** (quantitative measure)
+ **AfD discussion analysis** (real-world enforcement)
+ **API-based data collection** (reproducible)
+ **Mixed methods** (quant + qual)
 
 ### What Didn't Work
 
-❌ **Random sampling** (0% hit rate for rare events)
-❌ **Simple keyword search** ("AI" too generic, many false positives)
+ **Random sampling** (0% hit rate for rare events)
+ **Simple keyword search** ("AI" too generic, many false positives)
 
 ### Lessons Learned
 
@@ -226,7 +226,7 @@ AfD Analysis (30 discussions):
 
 ---
 
-## 🚀 Future Directions
+## Future Directions
 
 ### For Wikipedia Research
 
@@ -246,7 +246,7 @@ AfD Analysis (30 discussions):
 
 ---
 
-## 📝 Publication Checklist
+## Publication Checklist
 
 Before sharing on GitHub:
 
@@ -261,7 +261,7 @@ Before sharing on GitHub:
 - [x] Citation info provided
 - [x] License/attribution clear
 
-**Status**: ✅ Ready for publication
+**Status**: Ready for publication
 
 ---
 

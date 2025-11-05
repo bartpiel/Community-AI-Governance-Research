@@ -198,11 +198,11 @@ Wikipedia has extensive policies about **tool-based automation** (traditional bo
 
 ### Recommendations:
 - For software projects, analyze:
-  - Pull request comments
-  - Issue discussions
-  - Code review feedback
-  - Commit messages
-  - Policy documents (if they exist)
+ - Pull request comments
+ - Issue discussions
+ - Code review feedback
+ - Commit messages
+ - Policy documents (if they exist)
 
 ---
 
@@ -212,14 +212,14 @@ Wikipedia has extensive policies about **tool-based automation** (traditional bo
 Period: January 1 - November 4, 2025
 Sample: 10,000 recent edits
 
-Total Policy Citations:          1,820
-├─ AI-specific:                      0  (0.000%)
-├─ Bot/automation:                ~311  (17.1%)
-└─ Other policies:              ~1,509  (82.9%)
+Total Policy Citations: 1,820
+ AI-specific: 0 (0.000%)
+ Bot/automation: ~311 (17.1%)
+ Other policies: ~1,509 (82.9%)
 
-Edits with Policy Citations:    1,562  (15.62% of all edits)
-Unique Policies Cited:            156
-Average Citations per Policy:   11.67
+Edits with Policy Citations: 1,562 (15.62% of all edits)
+Unique Policies Cited: 156
+Average Citations per Policy: 11.67
 
 Most Cited: WIKIPEDIA:CATEGORIES (638 citations, 35.05%)
 Least Cited: Various (1 citation each)

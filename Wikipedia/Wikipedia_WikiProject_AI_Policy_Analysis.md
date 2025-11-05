@@ -78,26 +78,26 @@ This analysis investigated whether individual WikiProjects on English Wikipedia 
 ### Data Collection Process
 
 1. **WikiProject Enumeration**
-   - Used Wikipedia API (`action=query`, `list=allpages`)
-   - Prefix search: "WikiProject "
-   - Namespace: 4 (Wikipedia namespace)
-   - Filtered: Main pages only (excluded subpages with `/`)
+ - Used Wikipedia API (`action=query`, `list=allpages`)
+ - Prefix search: "WikiProject "
+ - Namespace: 4 (Wikipedia namespace)
+ - Filtered: Main pages only (excluded subpages with `/`)
 
 2. **Popularity Metrics**
-   - **Watchers count**: Active community members monitoring the project
-   - **Monthly page views**: Last 30 days of traffic
-   - Sorting criterion: Number of watchers (proxy for active participation)
+ - **Watchers count**: Active community members monitoring the project
+ - **Monthly page views**: Last 30 days of traffic
+ - Sorting criterion: Number of watchers (proxy for active participation)
 
 3. **AI Content Analysis**
-   - **Keywords searched**: artificial intelligence, AI, machine learning, ML, bot, automated, automation, algorithm, neural network, deep learning, chatbot, language model, GPT, ChatGPT, generative, AI-generated, AI-assisted, LLM, computer-generated
-   - **Text analysis**: Full page content (wikitext) parsing
-   - **Section extraction**: Identified sections containing AI-related content
-   - **Subpage analysis**: Examined guideline and policy subpages for AI content
+ - **Keywords searched**: artificial intelligence, AI, machine learning, ML, bot, automated, automation, algorithm, neural network, deep learning, chatbot, language model, GPT, ChatGPT, generative, AI-generated, AI-assisted, LLM, computer-generated
+ - **Text analysis**: Full page content (wikitext) parsing
+ - **Section extraction**: Identified sections containing AI-related content
+ - **Subpage analysis**: Examined guideline and policy subpages for AI content
 
 4. **Policy Identification**
-   - Searched for dedicated AI policy pages
-   - Analyzed guideline/policy/rule/standard/criteria subpages
-   - Checked for AI-specific rulemaking separate from Wikipedia general policies
+ - Searched for dedicated AI policy pages
+ - Analyzed guideline/policy/rule/standard/criteria subpages
+ - Checked for AI-specific rulemaking separate from Wikipedia general policies
 
 ---
 
@@ -108,31 +108,31 @@ This analysis investigated whether individual WikiProjects on English Wikipedia 
 This analysis reveals a significant **difference in governance approaches**:
 
 **Wikipedia (Content Community)**:
-- ✅ **Centralized AI governance** - Policies set at platform level
-- ✅ **No project-level autonomy** - WikiProjects cannot create own AI rules
-- ✅ **Specialized enforcement project** - WikiProject AI Cleanup operates under central policies
-- ✅ **Uniform standards** - All projects subject to same AI governance framework
+- **Centralized AI governance** - Policies set at platform level
+- **No project-level autonomy** - WikiProjects cannot create own AI rules
+- **Specialized enforcement project** - WikiProject AI Cleanup operates under central policies
+- **Uniform standards** - All projects subject to same AI governance framework
 
 **Open-Source vs Free-Software (Code Communities)**:
-- ❓ **Potentially decentralized** - Individual projects may set own AI policies
-- ❓ **Foundation-level guidance** - Different foundations may have different stances
-- ❓ **License-driven governance** - AI policy tied to licensing philosophy
+- **Potentially decentralized** - Individual projects may set own AI policies
+- **Foundation-level guidance** - Different foundations may have different stances
+- **License-driven governance** - AI policy tied to licensing philosophy
 
 ### Research Questions This Raises
 
 1. **Do open-source foundations allow member projects to set individual AI policies?**
-   - Apache projects vs Linux Foundation projects vs independent projects
+ - Apache projects vs Linux Foundation projects vs independent projects
 
 2. **Do free-software projects maintain ideological consistency on AI?**
-   - GNU projects vs FSF-aligned projects
+ - GNU projects vs FSF-aligned projects
 
 3. **Is Wikipedia's centralized model unique or representative?**
-   - How does this compare to other content platforms (OpenStreetMap, Stack Overflow)?
+ - How does this compare to other content platforms (OpenStreetMap, Stack Overflow)?
 
 4. **Does licensing ideology predict governance centralization?**
-   - CC BY-SA (Wikipedia) = centralized
-   - GPL (GNU) = ?
-   - Apache License = ?
+ - CC BY-SA (Wikipedia) = centralized
+ - GPL (GNU) = ?
+ - Apache License = ?
 
 ---
 
@@ -141,54 +141,54 @@ This analysis reveals a significant **difference in governance approaches**:
 ### Wikipedia's Centralized AI Governance Architecture
 
 ```
-┌─────────────────────────────────────────────────┐
-│     Wikipedia Foundation-Level Policies         │
-│  (Bot policy, Artificial intelligence page,     │
-│   Content guidelines, Verifiability, etc.)      │
-└────────────────────┬────────────────────────────┘
-                     │
-                     │ Applied uniformly to
-                     ↓
-┌─────────────────────────────────────────────────┐
-│          All WikiProjects (1,500+)              │
-│                                                  │
-│  ┌──────────────┐  ┌──────────────┐            │
-│  │ WikiProject  │  │ WikiProject  │  ...       │
-│  │   Medicine   │  │   Biography  │            │
-│  └──────────────┘  └──────────────┘            │
-│                                                  │
-│  ⚠️ NO project-specific AI policies             │
-│  ✅ Follow central Wikipedia governance         │
-└─────────────────────────────────────────────────┘
-                     │
-                     │ Enforcement/Quality Control
-                     ↓
-┌─────────────────────────────────────────────────┐
-│      WikiProject AI Cleanup (Specialized)       │
-│                                                  │
-│  • Identifies AI-generated content              │
-│  • Reviews for policy compliance                │
-│  • Enforces existing rules (doesn't make new)   │
-│  • 207 active watchers                          │
-└─────────────────────────────────────────────────┘
+
+ Wikipedia Foundation-Level Policies 
+ (Bot policy, Artificial intelligence page, 
+ Content guidelines, Verifiability, etc.) 
+
+ 
+ Applied uniformly to
+ ↓
+
+ All WikiProjects (1,500+) 
+ 
+ 
+ WikiProject WikiProject ... 
+ Medicine Biography 
+ 
+ 
+ NO project-specific AI policies 
+ Follow central Wikipedia governance 
+
+ 
+ Enforcement/Quality Control
+ ↓
+
+ WikiProject AI Cleanup (Specialized) 
+ 
+ • Identifies AI-generated content 
+ • Reviews for policy compliance 
+ • Enforces existing rules (doesn't make new) 
+ • 207 active watchers 
+
 ```
 
 ### Key Characteristics
 
 1. **Top-Down Policy Flow**
-   - Central Wikipedia community develops AI policies
-   - Individual WikiProjects cannot override or create alternatives
-   - Uniformity across all topic areas
+ - Central Wikipedia community develops AI policies
+ - Individual WikiProjects cannot override or create alternatives
+ - Uniformity across all topic areas
 
 2. **Specialized Enforcement**
-   - WikiProject AI Cleanup serves as quality control mechanism
-   - Operates under existing policies, not independent authority
-   - Cross-project coordination for AI content issues
+ - WikiProject AI Cleanup serves as quality control mechanism
+ - Operates under existing policies, not independent authority
+ - Cross-project coordination for AI content issues
 
 3. **No Topic-Specific Exceptions**
-   - Medicine, Biography, Technology projects all follow same rules
-   - No evidence of domain-specific AI policy adaptations
-   - Centralized standards regardless of subject matter sensitivity
+ - Medicine, Biography, Technology projects all follow same rules
+ - No evidence of domain-specific AI policy adaptations
+ - Centralized standards regardless of subject matter sensitivity
 
 ---
 
@@ -255,19 +255,19 @@ Wikipedia:WikiProject Medicine/Open tasks
 ### Available Outputs
 
 1. **`wikipedia_wikiproject_ai_analysis_YYYYMMDD_HHMMSS.json`**
-   - Comprehensive JSON with all WikiProject data
-   - Includes: full text analysis, section breakdowns, AI reference locations
-   - Useful for: Detailed research, programmatic analysis
+ - Comprehensive JSON with all WikiProject data
+ - Includes: full text analysis, section breakdowns, AI reference locations
+ - Useful for: Detailed research, programmatic analysis
 
 2. **`wikipedia_wikiproject_ai_summary_YYYYMMDD_HHMMSS.csv`**
-   - Summary spreadsheet with key metrics
-   - Columns: WikiProject name, watchers, views, AI references, policy indicators
-   - Useful for: Quick overview, statistical analysis
+ - Summary spreadsheet with key metrics
+ - Columns: WikiProject name, watchers, views, AI references, policy indicators
+ - Useful for: Quick overview, statistical analysis
 
 3. **`wikipedia_wikiproject_ai_analyzer.py`**
-   - Analysis script (reproducible research)
-   - Can be re-run to update data
-   - Configurable limits and search parameters
+ - Analysis script (reproducible research)
+ - Can be re-run to update data
+ - Configurable limits and search parameters
 
 ---
 
@@ -278,10 +278,10 @@ Wikipedia:WikiProject Medicine/Open tasks
 **Wikipedia does NOT delegate AI governance to WikiProjects.**
 
 The platform maintains a **centralized, uniform policy framework** where:
-- ✅ All projects follow the same AI rules
-- ✅ No project-level autonomy for AI policy
-- ✅ Specialized projects (AI Cleanup) enforce rather than create policy
-- ✅ Governance is top-down from Wikipedia community
+- All projects follow the same AI rules
+- No project-level autonomy for AI policy
+- Specialized projects (AI Cleanup) enforce rather than create policy
+- Governance is top-down from Wikipedia community
 
 ### Contrast with Software Ecosystems
 
@@ -300,15 +300,15 @@ This finding is **potentially significant** for comparing content vs. code gover
 For your study comparing open-source vs free-software AI governance:
 
 1. **Wikipedia serves as a baseline** for content governance
-   - Centralized, policy-driven, no project autonomy
+ - Centralized, policy-driven, no project autonomy
 
 2. **Software foundations may differ**
-   - Check if Apache/Eclipse/Linux Foundation projects have individual AI policies
-   - Compare with FSF/GNU project AI stances
+ - Check if Apache/Eclipse/Linux Foundation projects have individual AI policies
+ - Compare with FSF/GNU project AI stances
 
 3. **Ideological vs pragmatic divide may appear differently**
-   - In code: Open-source (permissive) vs Free-software (ideological)
-   - In content: Centralized governance regardless of licensing philosophy
+ - In code: Open-source (permissive) vs Free-software (ideological)
+ - In content: Centralized governance regardless of licensing philosophy
 
 ---
 
@@ -317,28 +317,28 @@ For your study comparing open-source vs free-software AI governance:
 ### Questions for Further Investigation
 
 1. **Are there ANY WikiProjects with separate AI policies?**
-   - Expand analysis beyond top 50 to all 1,500+
-   - Check for specialized areas (medicine, law, biography)
+ - Expand analysis beyond top 50 to all 1,500+
+ - Check for specialized areas (medicine, law, biography)
 
 2. **How does WikiProject AI Cleanup actually operate?**
-   - Detailed analysis of their processes
-   - Case studies of AI content reviews
-   - Enforcement mechanisms
+ - Detailed analysis of their processes
+ - Case studies of AI content reviews
+ - Enforcement mechanisms
 
 3. **Has Wikipedia's AI governance changed over time?**
-   - Historical analysis of policy development
-   - Timeline of AI-related discussions
-   - Evolution of WikiProject AI Cleanup
+ - Historical analysis of policy development
+ - Timeline of AI-related discussions
+ - Evolution of WikiProject AI Cleanup
 
 4. **Comparison with other Wikimedia projects**
-   - Does Wikidata have different AI governance?
-   - What about Wikimedia Commons (images/AI art)?
-   - Cross-project policy consistency?
+ - Does Wikidata have different AI governance?
+ - What about Wikimedia Commons (images/AI art)?
+ - Cross-project policy consistency?
 
 5. **Stack Overflow as comparison case**
-   - Community-driven like Wikipedia
-   - But directly threatened by AI (ChatGPT competition)
-   - Do Stack Overflow topic tags have different AI rules?
+ - Community-driven like Wikipedia
+ - But directly threatened by AI (ChatGPT competition)
+ - Do Stack Overflow topic tags have different AI rules?
 
 ---
 
@@ -347,24 +347,24 @@ For your study comparing open-source vs free-software AI governance:
 ### Acknowledged Constraints
 
 1. **Sample Size**: Initial analysis covered only 19 WikiProjects
-   - Full analysis of 1,500+ ongoing
-   - Top 50 by popularity will provide better coverage
-   - Long-tail WikiProjects may differ
+ - Full analysis of 1,500+ ongoing
+ - Top 50 by popularity will provide better coverage
+ - Long-tail WikiProjects may differ
 
 2. **Keyword Search**: AI content identified via keyword matching
-   - May miss context-specific discussions
-   - May overcount generic "automation" references
-   - Natural language processing could improve accuracy
+ - May miss context-specific discussions
+ - May overcount generic "automation" references
+ - Natural language processing could improve accuracy
 
 3. **Subpage Analysis**: Only checked guideline/policy subpages
-   - May miss AI discussions in talk pages
-   - May miss archived discussions
-   - Historical policy debates not captured
+ - May miss AI discussions in talk pages
+ - May miss archived discussions
+ - Historical policy debates not captured
 
 4. **Snapshot Analysis**: Data captured at single point in time
-   - AI governance is rapidly evolving
-   - May not reflect recent changes
-   - Longitudinal study would be valuable
+ - AI governance is rapidly evolving
+ - May not reflect recent changes
+ - Longitudinal study would be valuable
 
 ---
 
@@ -378,10 +378,10 @@ For your study comparing open-source vs free-software AI governance:
 - Wikipedia (open-content)
 
 **This Analysis Contributes**:
-- ✅ Baseline for content governance (centralized model)
-- ✅ Evidence that WikiProjects don't have AI policy autonomy
-- ✅ Identification of specialized enforcement mechanism (AI Cleanup)
-- ✅ Quantification of AI content prevalence (36.8% mention AI)
+- Baseline for content governance (centralized model)
+- Evidence that WikiProjects don't have AI policy autonomy
+- Identification of specialized enforcement mechanism (AI Cleanup)
+- Quantification of AI content prevalence (36.8% mention AI)
 
 **Next Steps for Your Research**:
 1. Analyze open-source foundation AI policies (Apache, Eclipse, Linux Foundation)

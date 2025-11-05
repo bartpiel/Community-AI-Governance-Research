@@ -7,7 +7,7 @@ This repository contains a comprehensive, multi-method analysis of Wikipedia's A
 
 ---
 
-## 🎯 Executive Summary
+## Executive Summary
 
 **Start here**: [`EXECUTIVE_SUMMARY.md`](EXECUTIVE_SUMMARY.md) - Complete overview of all findings
 
@@ -15,93 +15,93 @@ This repository contains a comprehensive, multi-method analysis of Wikipedia's A
 
 Wikipedia has **NO formal AI policy** yet maintains **active AI governance**:
 
-- ❌ No adopted AI policy (Wikipedia:AI-generated content is still a draft)
-- ❌ No policy shortcuts (WP:NOTAI doesn't exist)
-- ❌ **0 AI policy citations** in 10,000 recent edits (0.000%)
-- ✅ **100+ active deletion discussions** about AI content
-- ✅ **59% deletion rate** for AI-generated articles
-- ✅ **Bottom-up governance** through community practice
+- No adopted AI policy (Wikipedia:AI-generated content is still a draft)
+- No policy shortcuts (WP:NOTAI doesn't exist)
+- **0 AI policy citations** in 10,000 recent edits (0.000%)
+- **100+ active deletion discussions** about AI content
+- **59% deletion rate** for AI-generated articles
+- **Bottom-up governance** through community practice
 
 **Finding**: AI governance emerges through **community norms** and **deletion discussions**, not formal policy.
 
 ---
 
-## 📊 Key Statistics
+## Key Statistics
 
 ### Policy Citation Analysis (10,000 edits, 2025)
 ```
-Total policy citations:          1,820
-├─ AI-specific policies:             0  (0.000%)
-├─ Bot/automation policies:        311  (17.1%)
-└─ Other policies:               1,509  (82.9%)
+Total policy citations: 1,820
+ AI-specific policies: 0 (0.000%)
+ Bot/automation policies: 311 (17.1%)
+ Other policies: 1,509 (82.9%)
 
 AI shortcuts: WP:AI → Info page (not policy)
-              WP:NOTAI → Does NOT exist
+ WP:NOTAI → Does NOT exist
 ```
 
 ### AfD Analysis (100+ discussions found, 30 analyzed)
 ```
-Deletion rate:                   59%
-Keep rate:                       11%
-Detection tool usage:            20% (GPTZero)
-Average voters:                  2.8 per discussion
-Policy citations:                51 total (NO AI-specific)
+Deletion rate: 59%
+Keep rate: 11%
+Detection tool usage: 20% (GPTZero)
+Average voters: 2.8 per discussion
+Policy citations: 51 total (NO AI-specific)
 ```
 
 ### WikiProject Analysis (1,096+ projects examined)
 ```
-WikiProjects with AI policies:      0
+WikiProjects with AI policies: 0
 Top project: AI Cleanup
-├─ Watchers:                      207
-├─ AI references:                 109
-└─ Governance model:    Centralized (no autonomy)
+ Watchers: 207
+ AI references: 109
+ Governance model: Centralized (no autonomy)
 ```
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
-### 📖 Main Reports (Read in Order)
+### Main Reports (Read in Order)
 
-1. **[`EXECUTIVE_SUMMARY.md`](EXECUTIVE_SUMMARY.md)** ⭐ START HERE
-   - Complete overview of all findings
-   - Key statistics and implications
-   - Comparative framework for software projects
+1. **[`EXECUTIVE_SUMMARY.md`](EXECUTIVE_SUMMARY.md)** START HERE
+ - Complete overview of all findings
+ - Key statistics and implications
+ - Comparative framework for software projects
 
 2. **[`Complete_Wikipedia_AI_Governance_Analysis.md`](Complete_Wikipedia_AI_Governance_Analysis.md)**
-   - Initial comprehensive policy analysis
-   - 42 governance pages, 581 AI references
-   - Foundation of the research
+ - Initial comprehensive policy analysis
+ - 42 governance pages, 581 AI references
+ - Foundation of the research
 
 3. **[`Wikipedia_WikiProject_AI_Policy_Analysis.md`](Wikipedia_WikiProject_AI_Policy_Analysis.md)**
-   - Analysis of 1,096+ WikiProjects
-   - **Finding**: 0 WikiProjects have separate AI policies
-   - Centralized governance model documented
+ - Analysis of 1,096+ WikiProjects
+ - **Finding**: 0 WikiProjects have separate AI policies
+ - Centralized governance model documented
 
 4. **[`AI_Enforcement_Preliminary_Analysis.md`](AI_Enforcement_Preliminary_Analysis.md)**
-   - Random sampling approach (30 articles)
-   - **Result**: 0% hit rate (methodology lesson)
-   - Led to targeted approach development
+ - Random sampling approach (30 articles)
+ - **Result**: 0% hit rate (methodology lesson)
+ - Led to targeted approach development
 
 5. **[`AI_Enforcement_Targeted_Analysis.md`](AI_Enforcement_Targeted_Analysis.md)**
-   - Targeted sampling (13 articles from WikiProject AI Cleanup)
-   - **Success**: 116 AI-related edits found (46% hit rate)
-   - Distinction between article maintenance vs. enforcement
+ - Targeted sampling (13 articles from WikiProject AI Cleanup)
+ - **Success**: 116 AI-related edits found (46% hit rate)
+ - Distinction between article maintenance vs. enforcement
 
 6. **[`Wikipedia_AI_Policy_Citation_Analysis_2025.md`](Wikipedia_AI_Policy_Citation_Analysis_2025.md)**
-   - Quantitative analysis of policy usage
-   - 10,000 edits analyzed
-   - **Finding**: 0 AI policy citations vs. 311 bot policy citations
+ - Quantitative analysis of policy usage
+ - 10,000 edits analyzed
+ - **Finding**: 0 AI policy citations vs. 311 bot policy citations
 
-7. **[`Wikipedia_AfD_AI_Detection_Analysis.md`](Wikipedia_AfD_AI_Detection_Analysis.md)** ⭐ KEY INSIGHTS
-   - Deep dive into 30 deletion discussions
-   - How editors detect AI content
-   - Community language and arguments
-   - **Finding**: 59% deletion rate, GPTZero used in 20% of cases
+7. **[`Wikipedia_AfD_AI_Detection_Analysis.md`](Wikipedia_AfD_AI_Detection_Analysis.md)** KEY INSIGHTS
+ - Deep dive into 30 deletion discussions
+ - How editors detect AI content
+ - Community language and arguments
+ - **Finding**: 59% deletion rate, GPTZero used in 20% of cases
 
 ---
 
-### 🔧 Analysis Scripts
+### Analysis Scripts
 
 All scripts use Wikipedia Action API with proper rate limiting:
 
@@ -122,7 +122,7 @@ All scripts use Wikipedia Action API with proper rate limiting:
 
 ---
 
-### 📊 Data Files
+### Data Files
 
 #### Analysis Results (JSON)
 - `wikipedia_specific_governance_ai_analysis_20251030_183154.json` - 42 governance pages
@@ -140,7 +140,7 @@ All scripts use Wikipedia Action API with proper rate limiting:
 
 ---
 
-## 🔍 Major Findings
+## Major Findings
 
 ### 1. **No Formal AI Policy, But Active Governance**
 
@@ -204,10 +204,10 @@ All scripts use Wikipedia Action API with proper rate limiting:
 ### 6. **When AI Content Survives (11% "Keep" rate)**
 
 **Criteria**:
-- ✅ Notable subject (e.g., historical figure)
-- ✅ Cleanup feasible
-- ✅ Sources added
-- ✅ Content valuable
+- Notable subject (e.g., historical figure)
+- Cleanup feasible
+- Sources added
+- Content valuable
 
 **Principle**: **Notability trumps method** - generation method matters less than quality.
 
@@ -233,33 +233,33 @@ All scripts use Wikipedia Action API with proper rate limiting:
 
 ---
 
-## 🎓 Research Implications
+## Research Implications
 
 ### For Understanding Wikipedia
 
 1. **Bottom-up governance works** (but has limits)
-   - Effective without formal policy
-   - Inconsistent standards
-   - Eventually needs formalization
+ - Effective without formal policy
+ - Inconsistent standards
+ - Eventually needs formalization
 
 2. **Existing frameworks adapt**
-   - WP:V, WP:RS, WP:OR applied to AI cases
-   - New technology doesn't always need new rules
+ - WP:V, WP:RS, WP:OR applied to AI cases
+ - New technology doesn't always need new rules
 
 3. **Detection is the bottleneck**
-   - Subjective human judgment
-   - Tool usage low (20%)
-   - False positive risk
+ - Subjective human judgment
+ - Tool usage low (20%)
+ - False positive risk
 
 4. **Community trust matters**
-   - Undisclosed AI use = deception
-   - Hallucinated refs = false information
-   - Trust breach > technical quality issues
+ - Undisclosed AI use = deception
+ - Hallucinated refs = false information
+ - Trust breach > technical quality issues
 
 5. **Pragmatism wins**
-   - Notable subjects kept despite AI generation
-   - Results matter more than provenance
-   - Quality standards can be met
+ - Notable subjects kept despite AI generation
+ - Results matter more than provenance
+ - Quality standards can be met
 
 ### For Comparing with Software Projects
 
@@ -273,30 +273,30 @@ All scripts use Wikipedia Action API with proper rate limiting:
 
 ---
 
-## 🚀 Methodology
+## Methodology
 
 ### Data Collection Methods
 
 1. **Policy Analysis** (Wikipedia Action API)
-   - 42 governance pages analyzed
-   - 581 AI references found
+ - 42 governance pages analyzed
+ - 581 AI references found
 
 2. **WikiProject Analysis** (API enumeration)
-   - 1,096+ projects fetched
-   - Top 50 analyzed in depth
+ - 1,096+ projects fetched
+ - Top 50 analyzed in depth
 
 3. **Edit History Analysis** (revisions API)
-   - Random sample: 30 articles (0% hit rate)
-   - Targeted sample: 13 articles (46% hit rate, 116 AI edits)
+ - Random sample: 30 articles (0% hit rate)
+ - Targeted sample: 13 articles (46% hit rate, 116 AI edits)
 
 4. **Policy Citation Analysis** (recent changes API)
-   - 10,000 recent edits analyzed
-   - 1,820 policy citations extracted
+ - 10,000 recent edits analyzed
+ - 1,820 policy citations extracted
 
 5. **Discussion Analysis** (search + parse APIs)
-   - 118 discussion spaces searched
-   - 100+ AfD discussions found
-   - 30 analyzed in depth
+ - 118 discussion spaces searched
+ - 100+ AfD discussions found
+ - 30 analyzed in depth
 
 ### API Usage
 
@@ -313,7 +313,7 @@ All scripts use Wikipedia Action API with proper rate limiting:
 
 ---
 
-## 📖 Additional Context
+## Additional Context
 
 ### Wikipedia Infrastructure Note
 
@@ -327,7 +327,7 @@ Wikipedia content is NOT on GitHub. The research in this repository analyzes Wik
 
 This Wikipedia analysis provides a **comparison baseline** for understanding how different open communities govern AI-generated contributions.
 
-## 🚀 Running the Analysis
+## Running the Analysis
 
 ### Prerequisites
 
@@ -360,7 +360,7 @@ python3 wikipedia_afd_ai_pattern_analyzer.py
 
 ---
 
-## 📚 Citation
+## Citation
 
 If you use this research, please cite:
 
@@ -374,7 +374,7 @@ Methodology: Mixed methods (quantitative API analysis + qualitative discussion a
 
 ---
 
-## 🤝 Related Projects
+## Related Projects
 
 This analysis is part of a larger comparative study:
 
@@ -390,7 +390,7 @@ This analysis is part of a larger comparative study:
 
 ---
 
-## 📞 Contact & Contributions
+## Contact & Contributions
 
 This is academic research. For questions or collaboration:
 - Open an issue in this repository
@@ -398,7 +398,7 @@ This is academic research. For questions or collaboration:
 
 ---
 
-## ⚖️ License & Acknowledgments
+## License & Acknowledgments
 
 **Data Source**: Wikipedia/Wikimedia Foundation
 **API**: Wikimedia Action API (public, with proper attribution)
@@ -409,7 +409,7 @@ This analysis and code are provided for educational and research purposes.
 
 ---
 
-## 🔗 Useful Links
+## Useful Links
 
 **Wikipedia Resources**:
 - [Wikipedia:AI-generated content](https://en.wikipedia.org/wiki/Wikipedia:AI-generated_content) (draft policy)
@@ -424,7 +424,7 @@ This analysis and code are provided for educational and research purposes.
 ---
 
 **Last Updated**: November 4, 2025
-**Status**: ✅ Analysis Complete - Ready for publication and comparison with software projects
+**Status**: Analysis Complete - Ready for publication and comparison with software projects
 
 ### Prerequisites
 ```bash
@@ -444,7 +444,7 @@ python wikipedia_ai_discussions_analyzer.py
 python wikipedia_ai_governance_analyzer.py
 ```
 
-## 📈 Analysis Methodology
+## Analysis Methodology
 
 **Approach**: Multi-dimensional analysis covering:
 1. **Static governance documents** - Policies, guidelines, essays
@@ -458,7 +458,7 @@ python wikipedia_ai_governance_analyzer.py
 
 **Search Terms**: 15+ AI-related keywords including 'artificial intelligence', 'bot', 'automated', 'AI-generated', 'ChatGPT', 'machine learning'
 
-## 🎯 Use Cases
+## Use Cases
 
 This analysis can be used for:
 - **Policy research** on platform AI governance
@@ -467,13 +467,13 @@ This analysis can be used for:
 - **Policy development** guidance for other platforms
 - **Tracking evolution** of AI governance over time
 
-## 📅 Analysis Date
+## Analysis Date
 
 **Conducted**: October 30, 2025
 **Coverage Period**: Current governance state + 90 days of discussion history
 **Data Freshness**: Real-time API queries
 
-## 🔄 Updating the Analysis
+## Updating the Analysis
 
 To refresh the analysis with current data:
 

@@ -5,18 +5,18 @@
 
 ---
 
-## 🎯 Main Findings
+## Main Findings
 
 ### **1. The "Invisible Policy" Paradox**
 
 Wikipedia has **NO formal AI policy** yet maintains **active AI governance**:
 
-- ❌ No adopted AI policy (Wikipedia:AI-generated content is still a **draft proposal**)
-- ❌ No AI policy shortcuts exist (WP:NOTAI doesn't exist)
-- ❌ **0 AI policy citations** found in 10,000 recent edits (0.000%)
-- ✅ **100+ active deletion discussions** about AI-generated articles
-- ✅ **59% deletion rate** for AI-generated content
-- ✅ **Bottom-up governance** through community practice
+- No adopted AI policy (Wikipedia:AI-generated content is still a **draft proposal**)
+- No AI policy shortcuts exist (WP:NOTAI doesn't exist)
+- **0 AI policy citations** found in 10,000 recent edits (0.000%)
+- **100+ active deletion discussions** about AI-generated articles
+- **59% deletion rate** for AI-generated content
+- **Bottom-up governance** through community practice
 
 **Conclusion**: AI governance happens through **emergent community norms**, not top-down policy.
 
@@ -64,21 +64,21 @@ Editors developed informal vocabulary:
 **Where AI governance happens:**
 
 1. **Articles for Deletion (AfD)**: 100+ discussions
-   - 59% deletion rate
-   - Consensus-based decisions
-   - 2.8 average voters per discussion
+ - 59% deletion rate
+ - Consensus-based decisions
+ - 2.8 average voters per discussion
 
 2. **WikiProject AI Cleanup**: 207 watchers
-   - Monitors AI-topic articles
-   - Coordinates detection efforts
-   - No separate AI policies (uses Wikipedia-wide rules)
+ - Monitors AI-topic articles
+ - Coordinates detection efforts
+ - No separate AI policies (uses Wikipedia-wide rules)
 
 3. **Village Pump (Policy)**: 50+ discussions
-   - Policy proposals debated
-   - Draft AI policy under development
+ - Policy proposals debated
+ - Draft AI policy under development
 
 4. **User blocks**: Systematic AI article creation → blocking
-   - "Disrupting Wikipedia by creating AI-generated articles with hallucinated content"
+ - "Disrupting Wikipedia by creating AI-generated articles with hallucinated content"
 
 ---
 
@@ -102,10 +102,10 @@ Editors developed informal vocabulary:
 **3 cases (11%) resulted in "Keep" decisions:**
 
 **Criteria for keeping AI-generated content:**
-- ✅ **Notable subject** (e.g., historical figure mentioned by Herodotus)
-- ✅ **Cleanup feasible** (problems can be fixed)
-- ✅ **Sources added** (verifiability established)
-- ✅ **Content valuable** (despite generation method)
+- **Notable subject** (e.g., historical figure mentioned by Herodotus)
+- **Cleanup feasible** (problems can be fixed)
+- **Sources added** (verifiability established)
+- **Content valuable** (despite generation method)
 
 **Key Principle**: **Notability trumps method** - generation method matters less than content quality.
 
@@ -145,9 +145,9 @@ Editors developed informal vocabulary:
 
 **WikiProject Analysis** (1,096+ projects examined):
 
-- ❌ **0 WikiProjects** have separate AI policies
-- ✅ All use **centralized Wikipedia policies**
-- ✅ WikiProject AI Cleanup acts as **coordinating hub**, not autonomous policy-maker
+- **0 WikiProjects** have separate AI policies
+- All use **centralized Wikipedia policies**
+- WikiProject AI Cleanup acts as **coordinating hub**, not autonomous policy-maker
 
 **Governance Model**: **Centralized policy + distributed enforcement**
 
@@ -168,63 +168,63 @@ Editors developed informal vocabulary:
 
 ---
 
-## 📊 Key Statistics
+## Key Statistics
 
 ### Policy Citation Analysis (10,000 edits, 2025)
 ```
-Total policy citations:          1,820
-├─ AI-specific policies:             0  (0.000%)
-├─ Bot/automation policies:        311  (17.1%)
-└─ Other policies:               1,509  (82.9%)
+Total policy citations: 1,820
+ AI-specific policies: 0 (0.000%)
+ Bot/automation policies: 311 (17.1%)
+ Other policies: 1,509 (82.9%)
 
 Most cited: WIKIPEDIA:CATEGORIES (638, 35%)
 AI shortcuts: WP:AI → Info page (not policy)
-              WP:NOTAI → Does NOT exist
+ WP:NOTAI → Does NOT exist
 ```
 
 ### AfD Discussion Analysis (30 discussions, 2023-2025)
 ```
-Total discussions found:         100
-Analyzed in depth:                30
-Detection indicators:             80
+Total discussions found: 100
+Analyzed in depth: 30
+Detection indicators: 80
 
 Outcomes:
-├─ Delete:                    16 (59%)
-├─ Keep:                       3 (11%)
-└─ Other:                     11 (30%)
+ Delete: 16 (59%)
+ Keep: 3 (11%)
+ Other: 11 (30%)
 
 Detection tools:
-└─ GPTZero:                6 cases (20%)
+ GPTZero: 6 cases (20%)
 
-Policies cited:              51 total
-└─ NO AI-specific policies cited
+Policies cited: 51 total
+ NO AI-specific policies cited
 ```
 
 ### WikiProject Analysis (1,096+ projects)
 ```
-Total WikiProjects found:      1,096+
-Analyzed in depth:                 50
+Total WikiProjects found: 1,096+
+Analyzed in depth: 50
 
 Top WikiProject: AI Cleanup
-├─ Watchers:                      207
-├─ AI references:                 109
-└─ Separate AI policy:             NO
+ Watchers: 207
+ AI references: 109
+ Separate AI policy: NO
 
-WikiProjects with AI policies:      0
+WikiProjects with AI policies: 0
 ```
 
 ---
 
-## 🔑 Research Implications
+## Research Implications
 
 ### **1. Bottom-Up Governance Model**
 
 Wikipedia demonstrates that **effective AI governance can emerge without formal policy**:
 
-- ✅ Community develops detection practices
-- ✅ Norms emerge through deletion discussions
-- ✅ Existing policies adapted to new challenges
-- ✅ Distributed enforcement works
+- Community develops detection practices
+- Norms emerge through deletion discussions
+- Existing policies adapted to new challenges
+- Distributed enforcement works
 
 **Challenge**: Inconsistent standards, subjective detection
 
@@ -281,40 +281,40 @@ Wikipedia demonstrates that **effective AI governance can emerge without formal 
 
 ---
 
-## 🎓 Comparative Framework
+## Comparative Framework
 
 ### **For Comparing with Software Projects (Apache, FSF):**
 
 **Questions to investigate:**
 
 1. **Detection**:
-   - Is AI-generated code easier/harder to detect than text?
-   - What tools exist for code detection?
-   - Pattern recognition in commits?
+ - Is AI-generated code easier/harder to detect than text?
+ - What tools exist for code detection?
+ - Pattern recognition in commits?
 
 2. **Policy**:
-   - Do software projects have formal AI policies?
-   - Are policies cited in discussions?
-   - Top-down vs. bottom-up governance?
+ - Do software projects have formal AI policies?
+ - Are policies cited in discussions?
+ - Top-down vs. bottom-up governance?
 
 3. **Philosophy**:
-   - Open-source (pragmatic) vs. free-software (ideological)?
-   - Does generation method matter or only quality?
-   - Licensing implications?
+ - Open-source (pragmatic) vs. free-software (ideological)?
+ - Does generation method matter or only quality?
+ - Licensing implications?
 
 4. **Enforcement**:
-   - What happens to AI-generated PRs?
-   - Code review processes?
-   - Contributor consequences?
+ - What happens to AI-generated PRs?
+ - Code review processes?
+ - Contributor consequences?
 
 5. **Language**:
-   - Similar vocabulary ("AI slop")?
-   - Attitude toward AI assistance?
-   - Distinction between AI-assisted vs. AI-generated?
+ - Similar vocabulary ("AI slop")?
+ - Attitude toward AI assistance?
+ - Distinction between AI-assisted vs. AI-generated?
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### **Data Collection**
 
@@ -351,7 +351,7 @@ Wikipedia demonstrates that **effective AI governance can emerge without formal 
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 ### **Analysis Reports**:
 1. `Complete_Wikipedia_AI_Governance_Analysis.md` - Initial comprehensive analysis
@@ -379,7 +379,7 @@ Wikipedia demonstrates that **effective AI governance can emerge without formal 
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 ### **1. Governance Without Policy Works (But Has Limits)**
 
@@ -436,7 +436,7 @@ Despite concerns about AI, Wikipedia keeps AI-generated content when:
 
 ---
 
-## 🚀 Future Research Directions
+## Future Research Directions
 
 ### **For Wikipedia**:
 1. Monitor formal policy adoption process
@@ -458,7 +458,7 @@ Despite concerns about AI, Wikipedia keeps AI-generated content when:
 
 ---
 
-## 📚 Citation
+## Citation
 
 **Repository**: Apache-Foundation-Projects/Wikipedia
 **Research Period**: October 30 - November 4, 2025
@@ -467,7 +467,7 @@ Despite concerns about AI, Wikipedia keeps AI-generated content when:
 
 ---
 
-## 🤝 Acknowledgments
+## Acknowledgments
 
 **Data Source**: Wikipedia community (editors, administrators, WikiProjects)
 **API**: Wikimedia Action API
@@ -475,7 +475,7 @@ Despite concerns about AI, Wikipedia keeps AI-generated content when:
 
 ---
 
-## 📖 Further Reading
+## Further Reading
 
 **Wikipedia Policy Pages**:
 - Wikipedia:AI-generated content (draft proposal)

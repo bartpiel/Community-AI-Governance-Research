@@ -130,17 +130,17 @@ This analysis examines **6 major nonprofit open source foundations** to understa
 
 ### Code Organization
 ```
-collectors/          # Foundation-specific data collectors
-├── apache_foundation_collector.py
-├── eclipse_foundation_collector.py
-├── linux_foundation_collector.py
-├── mozilla_foundation_collector.py
-├── osi_ecosystem_collector.py
-└── fsf_ecosystem_collector.py
+collectors/ # Foundation-specific data collectors
+ apache_foundation_collector.py
+ eclipse_foundation_collector.py
+ linux_foundation_collector.py
+ mozilla_foundation_collector.py
+ osi_ecosystem_collector.py
+ fsf_ecosystem_collector.py
 
-generate_foundation_comparison.py  # Comparative analysis
-results/                          # Generated data and analysis
-docs/                            # Documentation and insights
+generate_foundation_comparison.py # Comparative analysis
+results/ # Generated data and analysis
+docs/ # Documentation and insights
 ```
 
 ### Data Processing Pipeline

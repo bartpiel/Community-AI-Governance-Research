@@ -29,11 +29,11 @@
 
 **Breakdown**:
 - **Edit History**: 2 AI-related edits found
-  - 0 were actual enforcement actions
-  - Both were false positives (not AI governance)
+ - 0 were actual enforcement actions
+ - Both were false positives (not AI governance)
 - **Talk Pages**: 2 AI-related discussions found
-  - 0 were about AI governance
-  - Both were false positives (AI mentioned in other contexts)
+ - 0 were about AI governance
+ - Both were false positives (AI mentioned in other contexts)
 
 **By Category**:
 - Recent articles (0-3 months old): **0% had AI activity**
@@ -76,11 +76,11 @@
 
 **Critical Finding**: In a random sample of 30 articles spanning 34 months (since ChatGPT launch era), there were:
 
-- ✗ **0 reverts** for AI-generated content
-- ✗ **0 edit summaries** citing AI policies
-- ✗ **0 warnings** about AI usage
-- ✗ **0 discussions** about suspected AI content
-- ✗ **0 policy citations** (WP:BOT, WP:NOTAI, WP:V regarding AI)
+- **0 reverts** for AI-generated content
+- **0 edit summaries** citing AI policies
+- **0 warnings** about AI usage
+- **0 discussions** about suspected AI content
+- **0 policy citations** (WP:BOT, WP:NOTAI, WP:V regarding AI)
 
 ---
 
@@ -117,17 +117,17 @@ Several possible explanations:
 ### **This Sample Tells Us:**
 
 1. **AI enforcement is not uniformly distributed**
-   - Random sampling doesn't capture enforcement patterns
-   - Need targeted approach to find enforcement activity
+ - Random sampling doesn't capture enforcement patterns
+ - Need targeted approach to find enforcement activity
 
 2. **Keyword search has limitations**
-   - High false positive rate (4/4 hits were false positives)
-   - Need more sophisticated detection (policy citations, specific phrases)
+ - High false positive rate (4/4 hits were false positives)
+ - Need more sophisticated detection (policy citations, specific phrases)
 
 3. **Need different sampling strategy**
-   - Focus on articles flagged by WikiProject AI Cleanup
-   - Search for articles with specific policy citations
-   - Examine articles with multiple reverts
+ - Focus on articles flagged by WikiProject AI Cleanup
+ - Search for articles with specific policy citations
+ - Examine articles with multiple reverts
 
 ### **What This Doesn't Tell Us:**
 
@@ -152,11 +152,11 @@ Instead of random sampling, use **targeted approaches**:
 
 #### **Approach B: Search Edit Summaries**
 - Use Wikipedia's search to find edits mentioning specific phrases:
-  - "AI-generated"
-  - "ChatGPT"
-  - "revert bot"
-  - "WP:NOTAI"
-  - "suspected automation"
+ - "AI-generated"
+ - "ChatGPT"
+ - "revert bot"
+ - "WP:NOTAI"
+ - "suspected automation"
 - **Pros**: Direct evidence of enforcement
 - **Cons**: Misses silent enforcement
 
@@ -198,16 +198,16 @@ Based on this analysis, improve keyword detection:
 ### Generated Outputs:
 
 1. **`ai_edit_enforcement_20251104_173519.csv`**
-   - 2 edits found (both false positives)
-   - Shows current keyword search limitations
+ - 2 edits found (both false positives)
+ - Shows current keyword search limitations
 
 2. **`ai_talk_discussions_20251104_173519.csv`**
-   - 2 discussions found (both false positives)
-   - Reveals need for context-aware filtering
+ - 2 discussions found (both false positives)
+ - Reveals need for context-aware filtering
 
 3. **`ai_enforcement_articles_20251104_173519.csv`**
-   - List of 30 analyzed articles
-   - Useful for documenting sample composition
+ - List of 30 analyzed articles
+ - Useful for documenting sample composition
 
 ---
 
@@ -241,34 +241,34 @@ This could mean:
 ### **Immediate Priorities**:
 
 1. **Get WikiProject AI Cleanup article list**
-   - Analyze their tagged/monitored articles
-   - Compare enforcement patterns
+ - Analyze their tagged/monitored articles
+ - Compare enforcement patterns
 
 2. **Search for specific enforcement phrases**
-   - "AI-generated" (exact phrase)
-   - "ChatGPT" reverts
-   - Policy citations in context
+ - "AI-generated" (exact phrase)
+ - "ChatGPT" reverts
+ - Policy citations in context
 
 3. **Analyze high-risk article types**
-   - Promotional content
-   - New company/person articles
-   - Recent creations (< 1 week old)
+ - Promotional content
+ - New company/person articles
+ - Recent creations (< 1 week old)
 
 4. **Examine deletion discussions**
-   - Articles deleted for AI reasons
-   - Community consensus on AI content
+ - Articles deleted for AI reasons
+ - Community consensus on AI content
 
 ### **Longer-term Goals**:
 
 5. **Compare with software governance**
-   - Apache project pull request comments
-   - FSF project contribution guidelines
-   - GitHub AI policy enforcement
+ - Apache project pull request comments
+ - FSF project contribution guidelines
+ - GitHub AI policy enforcement
 
 6. **Temporal analysis**
-   - Has enforcement increased since ChatGPT (Nov 2022)?
-   - Seasonal patterns?
-   - Response time trends?
+ - Has enforcement increased since ChatGPT (Nov 2022)?
+ - Seasonal patterns?
+ - Response time trends?
 
 ---
 
@@ -277,20 +277,20 @@ This could mean:
 ### **What We Learned**:
 
 1. **Random sampling isn't effective** for rare events
-   - Need stratified sampling
-   - Target high-probability areas
+ - Need stratified sampling
+ - Target high-probability areas
 
 2. **Simple keyword matching insufficient**
-   - Need context awareness
-   - Require policy citation cross-reference
+ - Need context awareness
+ - Require policy citation cross-reference
 
 3. **False positives dominate** when base rate is low
-   - 100% false positive rate in this sample
-   - Precision requires refinement
+ - 100% false positive rate in this sample
+ - Precision requires refinement
 
 4. **Enforcement may be invisible**
-   - Not labeled in edit summaries
-   - Happens in ways keyword search misses
+ - Not labeled in edit summaries
+ - Happens in ways keyword search misses
 
 ### **Implications for Software Analysis**:
 
@@ -315,16 +315,16 @@ Only **6.7% of sampled articles** showed any AI-related activity, and **100% wer
 This preliminary analysis suggests that:
 
 1. **Wikipedia's AI governance is concentrated**, not distributed
-   - Enforcement happens in specific contexts
-   - Random articles largely unaffected
+ - Enforcement happens in specific contexts
+ - Random articles largely unaffected
 
 2. **Detection requires targeted approaches**
-   - Need to focus on high-risk areas
-   - Simple sampling won't capture governance patterns
+ - Need to focus on high-risk areas
+ - Simple sampling won't capture governance patterns
 
 3. **Comparison with software will be challenging**
-   - May need different methodologies for different domains
-   - Code vs content enforcement may look very different
+ - May need different methodologies for different domains
+ - Code vs content enforcement may look very different
 
 ### **Value of This Analysis**:
 

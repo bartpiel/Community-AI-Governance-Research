@@ -7,7 +7,7 @@ Status: Wikipedia Analysis Complete | Foundation Analysis Framework Ready
 
 ---
 
-## 🎯 Research Overview
+## Research Overview
 
 This repository contains a comprehensive, comparative study of **how open communities govern AI-generated contributions** across different domains and organizational structures.
 
@@ -17,62 +17,62 @@ This repository contains a comprehensive, comparative study of **how open commun
 
 ### Projects Studied
 
-1. **Wikipedia** (✅ Complete) - Community-driven content platform
-2. **Open Source Foundations** (🔄 Framework ready) - Apache, Linux, Eclipse, Mozilla
-3. **Free Software Ecosystem** (🔄 Framework ready) - FSF/GNU
-4. **Open Source Initiative** (🔄 Framework ready) - OSI ecosystem
+1. **Wikipedia** ( Complete) - Community-driven content platform
+2. **Open Source Foundations** ( Framework ready) - Apache, Linux, Eclipse, Mozilla
+3. **Free Software Ecosystem** ( Framework ready) - FSF/GNU
+4. **Open Source Initiative** ( Framework ready) - OSI ecosystem
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Community-AI-Governance-Research/
-├── README.md                           # This file
-├── EXECUTIVE_SUMMARY.md               # Overall findings (when complete)
-│
-├── Wikipedia/                          # ✅ COMPLETE
-│   ├── README.md                       # Wikipedia-specific entry point
-│   ├── EXECUTIVE_SUMMARY.md           # Complete Wikipedia findings
-│   ├── QUICK_REFERENCE.md             # Key statistics
-│   ├── 6x Analysis Reports/
-│   ├── 9x Python Scripts/
-│   └── 18x Data Files/
-│
-└── nonprofit-foundation-analysis/      # 🔄 FRAMEWORK READY
-    ├── README.md                       # Foundation analysis overview
-    ├── collectors/                     # Data collection tools
-    │   ├── apache_foundation_collector.py
-    │   ├── eclipse_foundation_collector.py
-    │   ├── fsf_ecosystem_collector.py
-    │   ├── linux_foundation_collector.py
-    │   ├── mozilla_foundation_collector.py
-    │   └── osi_ecosystem_collector.py
-    ├── docs/                           # Documentation
-    └── results/                        # Analysis results (pending)
+ README.md # This file
+ EXECUTIVE_SUMMARY.md # Overall findings (when complete)
+
+ Wikipedia/ # COMPLETE
+ README.md # Wikipedia-specific entry point
+ EXECUTIVE_SUMMARY.md # Complete Wikipedia findings
+ QUICK_REFERENCE.md # Key statistics
+ 6x Analysis Reports/
+ 9x Python Scripts/
+ 18x Data Files/
+
+ nonprofit-foundation-analysis/ # FRAMEWORK READY
+ README.md # Foundation analysis overview
+ collectors/ # Data collection tools
+ apache_foundation_collector.py
+ eclipse_foundation_collector.py
+ fsf_ecosystem_collector.py
+ linux_foundation_collector.py
+ mozilla_foundation_collector.py
+ osi_ecosystem_collector.py
+ docs/ # Documentation
+ results/ # Analysis results (pending)
 ```
 
 ---
 
-## 🔍 Current Status
+## Current Status
 
-### ✅ Phase 1: Wikipedia (Complete)
+### Phase 1: Wikipedia (Complete)
 
 **Completion Date**: November 4, 2025
 
 **Key Finding**: **"The Invisible Policy Paradox"**
 
 Wikipedia has **NO formal AI policy** yet maintains **active AI governance**:
-- ❌ 0 AI policy citations in 10,000 edits (0.000%)
-- ✅ 100+ deletion discussions about AI content
-- ✅ 59% deletion rate for AI-generated articles
-- ✅ Bottom-up governance through community norms
+- 0 AI policy citations in 10,000 edits (0.000%)
+- 100+ deletion discussions about AI content
+- 59% deletion rate for AI-generated articles
+- Bottom-up governance through community norms
 
 **Read More**: [`Wikipedia/EXECUTIVE_SUMMARY.md`](Wikipedia/EXECUTIVE_SUMMARY.md)
 
 ---
 
-### 🔄 Phase 2: Foundation Analysis (Framework Ready)
+### Phase 2: Foundation Analysis (Framework Ready)
 
 **Framework Complete**: Analysis tools ready for:
 - Apache Software Foundation
@@ -86,31 +86,31 @@ Wikipedia has **NO formal AI policy** yet maintains **active AI governance**:
 
 ---
 
-## 📊 Wikipedia Findings Summary
+## Wikipedia Findings Summary
 
 ### Quantitative Results
 
 ```
 Policy Analysis:
-├─ Governance pages analyzed:     42
-├─ Pages with AI content:         16 (38%)
-└─ Total AI references:          581
+ Governance pages analyzed: 42
+ Pages with AI content: 16 (38%)
+ Total AI references: 581
 
 WikiProject Analysis:
-├─ Projects enumerated:        1,096+
-├─ Projects analyzed:             50
-└─ Projects with AI policies:      0 (0%)
+ Projects enumerated: 1,096+
+ Projects analyzed: 50
+ Projects with AI policies: 0 (0%)
 
 Policy Citations (10,000 edits):
-├─ Total citations:            1,820
-├─ AI-specific:                    0 (0.000%)
-└─ Bot/automation:               311 (17.1%)
+ Total citations: 1,820
+ AI-specific: 0 (0.000%)
+ Bot/automation: 311 (17.1%)
 
 AfD Analysis (30 discussions):
-├─ Total discussions found:      100+
-├─ Deletion rate:                59%
-├─ Keep rate:                    11%
-└─ GPTZero usage:                20%
+ Total discussions found: 100+
+ Deletion rate: 59%
+ Keep rate: 11%
+ GPTZero usage: 20%
 ```
 
 ### Qualitative Findings
@@ -144,7 +144,7 @@ AfD Analysis (30 discussions):
 
 ---
 
-## 🎓 Research Framework
+## Research Framework
 
 ### Comparative Dimensions
 
@@ -175,7 +175,7 @@ This study examines AI governance across multiple dimensions:
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### Wikipedia Analysis (Complete)
 
@@ -203,17 +203,17 @@ This study examines AI governance across multiple dimensions:
 
 ---
 
-## 📖 Key Documents
+## Key Documents
 
 ### Wikipedia Analysis (Complete)
 
 **Entry Points**:
 1. [`Wikipedia/README.md`](Wikipedia/README.md) - Overview and navigation
-2. [`Wikipedia/EXECUTIVE_SUMMARY.md`](Wikipedia/EXECUTIVE_SUMMARY.md) - Complete findings ⭐
+2. [`Wikipedia/EXECUTIVE_SUMMARY.md`](Wikipedia/EXECUTIVE_SUMMARY.md) - Complete findings 
 3. [`Wikipedia/QUICK_REFERENCE.md`](Wikipedia/QUICK_REFERENCE.md) - Key statistics
 
 **Detailed Reports**:
-- [`Wikipedia_AfD_AI_Detection_Analysis.md`](Wikipedia/Wikipedia_AfD_AI_Detection_Analysis.md) - How editors detect AI (19 KB) ⭐
+- [`Wikipedia_AfD_AI_Detection_Analysis.md`](Wikipedia/Wikipedia_AfD_AI_Detection_Analysis.md) - How editors detect AI (19 KB) 
 - [`Wikipedia_WikiProject_AI_Policy_Analysis.md`](Wikipedia/Wikipedia_WikiProject_AI_Policy_Analysis.md) - Governance structure (18 KB)
 - [`Wikipedia_AI_Policy_Citation_Analysis_2025.md`](Wikipedia/Wikipedia_AI_Policy_Citation_Analysis_2025.md) - Quantitative policy data (8 KB)
 
@@ -230,86 +230,86 @@ This study examines AI governance across multiple dimensions:
 
 ---
 
-## 🎯 Key Research Questions
+## Key Research Questions
 
 ### For Each Foundation/Ecosystem
 
 1. **Policy Existence**
-   - Do formal AI policies exist?
-   - Are they cited in discussions?
-   - How were they developed?
+ - Do formal AI policies exist?
+ - Are they cited in discussions?
+ - How were they developed?
 
 2. **Detection Methods**
-   - How is AI code/content detected?
-   - What tools are used?
-   - Subjective vs. objective criteria?
+ - How is AI code/content detected?
+ - What tools are used?
+ - Subjective vs. objective criteria?
 
 3. **Enforcement Mechanisms**
-   - What happens to AI-generated contributions?
-   - Code review processes?
-   - Contributor consequences?
+ - What happens to AI-generated contributions?
+ - Code review processes?
+ - Contributor consequences?
 
 4. **Community Attitudes**
-   - What language is used?
-   - Pejorative vs. neutral framing?
-   - Distinction between AI-assisted vs. AI-generated?
+ - What language is used?
+ - Pejorative vs. neutral framing?
+ - Distinction between AI-assisted vs. AI-generated?
 
 5. **Philosophical Stance**
-   - Does ideology matter (free software vs. open source)?
-   - Quality vs. provenance?
-   - Licensing implications?
+ - Does ideology matter (free software vs. open source)?
+ - Quality vs. provenance?
+ - Licensing implications?
 
 ### Cross-Domain Comparisons
 
 1. **Content vs. Code**
-   - Is code easier/harder to detect than text?
-   - Different quality standards?
-   - Different enforcement patterns?
+ - Is code easier/harder to detect than text?
+ - Different quality standards?
+ - Different enforcement patterns?
 
 2. **Community vs. Foundation**
-   - Top-down vs. bottom-up governance?
-   - Policy formalization timelines?
-   - Enforcement consistency?
+ - Top-down vs. bottom-up governance?
+ - Policy formalization timelines?
+ - Enforcement consistency?
 
 3. **Pragmatic vs. Ideological**
-   - Do philosophical differences matter?
-   - OSI vs. FSF approaches?
-   - Impact on acceptance of AI?
+ - Do philosophical differences matter?
+ - OSI vs. FSF approaches?
+ - Impact on acceptance of AI?
 
 ---
 
-## 💡 Preliminary Insights (From Wikipedia)
+## Preliminary Insights (From Wikipedia)
 
 ### What We've Learned
 
 1. **Governance without policy is possible**
-   - Wikipedia proves bottom-up norms can work
-   - But: inconsistent, subjective, hard to scale
+ - Wikipedia proves bottom-up norms can work
+ - But: inconsistent, subjective, hard to scale
 
 2. **Practice precedes policy**
-   - Community develops norms first
-   - Formalization follows (~2+ year lag)
-   - May not need formalization if norms work
+ - Community develops norms first
+ - Formalization follows (~2+ year lag)
+ - May not need formalization if norms work
 
 3. **Detection is the bottleneck**
-   - Subjective judgment dominates (80%)
-   - Tools underused (20%)
-   - False positive/negative risks
+ - Subjective judgment dominates (80%)
+ - Tools underused (20%)
+ - False positive/negative risks
 
 4. **Trust matters more than quality**
-   - Undisclosed AI use = serious violation
-   - Hallucinated references = trust breach
-   - Deception drives deletion more than quality
+ - Undisclosed AI use = serious violation
+ - Hallucinated references = trust breach
+ - Deception drives deletion more than quality
 
 5. **Existing frameworks can adapt**
-   - No need for AI-specific rules (yet)
-   - Verifiability, sourcing, quality standards sufficient
-   - New technology doesn't always need new rules
+ - No need for AI-specific rules (yet)
+ - Verifiability, sourcing, quality standards sufficient
+ - New technology doesn't always need new rules
 
 6. **Scale drives formalization**
-   - Small scale → informal norms work
-   - Large scale → may force policy creation
-   - 2025 spike suggests tipping point approaching
+ - Small scale → informal norms work
+ - Large scale → may force policy creation
+ - 2025 spike suggests tipping point approaching
 
 ### Questions for Foundations
 
@@ -320,7 +320,7 @@ This study examines AI governance across multiple dimensions:
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 ### Immediate (In Progress)
 
@@ -345,7 +345,7 @@ This study examines AI governance across multiple dimensions:
 
 ---
 
-## 📚 How to Use This Repository
+## How to Use This Repository
 
 ### For Quick Overview (30 minutes)
 
@@ -377,7 +377,7 @@ This study examines AI governance across multiple dimensions:
 
 ---
 
-## 🤝 Contributors & Acknowledgments
+## Contributors & Acknowledgments
 
 **Research Team**: [Your information]
 
@@ -398,7 +398,7 @@ This study examines AI governance across multiple dimensions:
 
 ---
 
-## ⚖️ License & Citation
+## License & Citation
 
 ### Data Sources
 
@@ -419,7 +419,7 @@ Methodology: Mixed methods (quantitative API analysis + qualitative discussion a
 
 ---
 
-## 📞 Contact
+## Contact
 
 For questions, collaboration, or contributions:
 - Open an issue in this repository
@@ -427,11 +427,11 @@ For questions, collaboration, or contributions:
 
 ---
 
-## 🔗 Quick Links
+## Quick Links
 
 ### Wikipedia Analysis
 - [Wikipedia README](Wikipedia/README.md)
-- [Wikipedia Executive Summary](Wikipedia/EXECUTIVE_SUMMARY.md) ⭐
+- [Wikipedia Executive Summary](Wikipedia/EXECUTIVE_SUMMARY.md) 
 - [Wikipedia Quick Reference](Wikipedia/QUICK_REFERENCE.md)
 - [AfD Detection Analysis](Wikipedia/Wikipedia_AfD_AI_Detection_Analysis.md) (most detailed)
 
@@ -446,27 +446,27 @@ For questions, collaboration, or contributions:
 
 ---
 
-## 📊 Repository Status
+## Repository Status
 
 ```
-Phase 1: Wikipedia Analysis           ✅ COMPLETE (Nov 4, 2025)
-├─ Policy analysis                    ✅ 42 pages analyzed
-├─ WikiProject analysis               ✅ 1,096+ projects
-├─ Enforcement analysis               ✅ 116 AI edits
-├─ Policy citations                   ✅ 10,000 edits
-├─ Discussion analysis                ✅ 118 spaces
-└─ AfD deep dive                      ✅ 30 discussions
+Phase 1: Wikipedia Analysis COMPLETE (Nov 4, 2025)
+ Policy analysis 42 pages analyzed
+ WikiProject analysis 1,096+ projects
+ Enforcement analysis 116 AI edits
+ Policy citations 10,000 edits
+ Discussion analysis 118 spaces
+ AfD deep dive 30 discussions
 
-Phase 2: Foundation Analysis          🔄 FRAMEWORK READY
-├─ Data collectors                    ✅ 6 collectors ready
-├─ Analysis pipeline                  ✅ Scripts prepared
-├─ Methodology                        ✅ Documented
-└─ Execution                          ⏳ Pending
+Phase 2: Foundation Analysis FRAMEWORK READY
+ Data collectors 6 collectors ready
+ Analysis pipeline Scripts prepared
+ Methodology Documented
+ Execution ⏳ Pending
 
-Phase 3: Comparative Analysis         ⏳ PLANNED
-├─ Cross-domain comparison            ⏳ After Phase 2
-├─ Synthesis                          ⏳ After Phase 2
-└─ Publication                        ⏳ After Phase 3
+Phase 3: Comparative Analysis ⏳ PLANNED
+ Cross-domain comparison ⏳ After Phase 2
+ Synthesis ⏳ After Phase 2
+ Publication ⏳ After Phase 3
 ```
 
 ---

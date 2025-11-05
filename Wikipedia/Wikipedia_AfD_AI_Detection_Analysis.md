@@ -13,15 +13,15 @@
 ### **Major Finding: AI Governance Happens in Deletion Discussions, Not Policy Pages**
 
 While Wikipedia has:
-- ❌ **NO formal AI policy** (still draft proposal)
-- ❌ **NO AI policy shortcut** (WP:NOTAI doesn't exist)
-- ❌ **0 AI policy citations** in 10,000 edit summaries
+- **NO formal AI policy** (still draft proposal)
+- **NO AI policy shortcut** (WP:NOTAI doesn't exist)
+- **0 AI policy citations** in 10,000 edit summaries
 
 Wikipedia editors are:
-- ✅ **Actively detecting** AI-generated articles (100+ AfD discussions)
-- ✅ **Successfully deleting** them (59% deletion rate)
-- ✅ **Using detection tools** (GPTZero in 20% of cases)
-- ✅ **Developing detection language** ("AI slop", "hallucination", "word salad")
+- **Actively detecting** AI-generated articles (100+ AfD discussions)
+- **Successfully deleting** them (59% deletion rate)
+- **Using detection tools** (GPTZero in 20% of cases)
+- **Developing detection language** ("AI slop", "hallucination", "word salad")
 
 **Conclusion**: Real AI governance is **bottom-up** (community practice) rather than **top-down** (formal policy).
 
@@ -113,13 +113,13 @@ Editors have developed **informal vocabulary** for AI content:
 ### Sample Deletion Reasons:
 
 1. **"Chadian Refugees" AfD**:
-   > "It is better to remove AI generated content and articles due to their tendency to hallucinate information and references, rather than waste volunteer time trying to clean them up."
+ > "It is better to remove AI generated content and articles due to their tendency to hallucinate information and references, rather than waste volunteer time trying to clean them up."
 
 2. **"Close-knit community" AfD**:
-   > "Undisclosed, unsourced AI slop that would be just a WP:DICTDEF with examples anyway."
+ > "Undisclosed, unsourced AI slop that would be just a WP:DICTDEF with examples anyway."
 
 3. **"Artificial intelligence in education" AfD**:
-   > "AI-generated slop with citations retroactively added but not necessarily supporting the text."
+ > "AI-generated slop with citations retroactively added but not necessarily supporting the text."
 
 **Common Theme**: Editors emphasize AI's tendency to **fabricate information** and the **wastefulness** of cleanup efforts.
 
@@ -151,34 +151,34 @@ Editors have developed **informal vocabulary** for AI content:
 ### Delete Arguments (Top 10 AI-related):
 
 1. **Hallucination concern**:
-   > "Better to remove AI generated content... due to their tendency to hallucinate information and references, rather than waste volunteer time."
+ > "Better to remove AI generated content... due to their tendency to hallucinate information and references, rather than waste volunteer time."
 
 2. **No sources + AI**:
-   > "Unreferenced, AI-generated mess."
+ > "Unreferenced, AI-generated mess."
 
 3. **Dictionary definition**:
-   > "Glorified WP:DICTDEF but with AI generated text. Even worse, it has no sources."
+ > "Glorified WP:DICTDEF but with AI generated text. Even worse, it has no sources."
 
 4. **Deception concern**:
-   > "Undisclosed, unsourced AI slop... anyone trying to sneak this type of content onto WP should be blocked."
+ > "Undisclosed, unsourced AI slop... anyone trying to sneak this type of content onto WP should be blocked."
 
 5. **Mass creation**:
-   > "Creator was blocked for mass-creating AI-generated content, (also turned out to be a sock)."
+ > "Creator was blocked for mass-creating AI-generated content, (also turned out to be a sock)."
 
 6. **Quality degradation**:
-   > "There's no way this AI-generated garbage can form the basis of a useful article."
+ > "There's no way this AI-generated garbage can form the basis of a useful article."
 
 7. **Obvious indicators**:
-   > "From the user talk page it is obvious this person communicates only via AI texts."
+ > "From the user talk page it is obvious this person communicates only via AI texts."
 
 8. **Citation fraud**:
-   > "AI-generated slop with citations retroactively added but not necessarily supporting the text."
+ > "AI-generated slop with citations retroactively added but not necessarily supporting the text."
 
 9. **Pattern recognition**:
-   > "I've seen 5 AI-generated article related AFDs in the past month alone... Honestly kind of scary."
+ > "I've seen 5 AI-generated article related AFDs in the past month alone... Honestly kind of scary."
 
 10. **Efficiency argument**:
-    > "Even if this could theoretically be cleaned up, it's not worth the effort."
+ > "Even if this could theoretically be cleaned up, it's not worth the effort."
 
 **Common Themes**:
 - **Fabricated references** (hallucination)
@@ -192,13 +192,13 @@ Editors have developed **informal vocabulary** for AI content:
 ### Keep Arguments (when AI is mentioned):
 
 1. **Notable subject (Aristophilides)**:
-   > "Keep and clean up any AI problems - he's obviously notable. Herodotus wrote of him as being the king of Taras."
+ > "Keep and clean up any AI problems - he's obviously notable. Herodotus wrote of him as being the king of Taras."
 
 2. **Valuable information (ChatGPT article)**:
-   > "The ChatGPT Wikipedia article serves as a comprehensive and accessible resource... provides valuable information."
+ > "The ChatGPT Wikipedia article serves as a comprehensive and accessible resource... provides valuable information."
 
 3. **Significant topic**:
-   > "Should not be deleted... provides valuable information about an important language model."
+ > "Should not be deleted... provides valuable information about an important language model."
 
 **Common Theme**:
 - **Notable subjects** can be kept despite AI-generation
@@ -338,19 +338,19 @@ Editors have developed **informal vocabulary** for AI content:
 **Implicit Rules** (not formal policy):
 
 1. **Undisclosed AI use is unacceptable**
-   - "Sneaking AI content" is seen as deceptive
+ - "Sneaking AI content" is seen as deceptive
 
 2. **Hallucinated sources are serious violations**
-   - Worse than no sources (creates false information)
+ - Worse than no sources (creates false information)
 
 3. **Mass AI creation warrants blocking**
-   - Systematic abuse treated as disruption
+ - Systematic abuse treated as disruption
 
 4. **Notable subjects can be salvaged**
-   - AI generation doesn't automatically doom article
+ - AI generation doesn't automatically doom article
 
 5. **Cleanup effort must be justified**
-   - Not worth fixing if subject isn't notable
+ - Not worth fixing if subject isn't notable
 
 **Insight**: Community is developing **informal AI policies** through practice, even without formal rules.
 
@@ -442,28 +442,28 @@ One editor noted:
 ### What's Missing from Formal Wikipedia Policy:
 
 1. **AI detection guidelines**
-   - How to identify AI content
-   - What tools to use
-   - Confidence thresholds
+ - How to identify AI content
+ - What tools to use
+ - Confidence thresholds
 
 2. **AI usage policy**
-   - Is AI-assisted writing allowed?
-   - Must AI use be disclosed?
-   - What level of AI use is acceptable?
+ - Is AI-assisted writing allowed?
+ - Must AI use be disclosed?
+ - What level of AI use is acceptable?
 
 3. **Enforcement procedures**
-   - When to delete vs. cleanup
-   - User warning/blocking criteria
-   - Appeal process
+ - When to delete vs. cleanup
+ - User warning/blocking criteria
+ - Appeal process
 
 4. **Quality standards**
-   - Is well-sourced AI content acceptable?
-   - Does generation method matter if result is good?
+ - Is well-sourced AI content acceptable?
+ - Does generation method matter if result is good?
 
 5. **Edge cases**
-   - AI translation
-   - AI-assisted research
-   - AI citation formatting
+ - AI translation
+ - AI-assisted research
+ - AI citation formatting
 
 **Current State**: All handled **ad hoc** in individual AfD discussions
 
@@ -482,17 +482,17 @@ One editor noted:
 6. **Existing-policy-adapted** (WP:V, WP:RS applied to AI)
 
 **Strengths**:
-- ✅ Flexible and adaptive
-- ✅ Community-driven consensus
-- ✅ Works without formal policy
-- ✅ Quick response to new problems
+- Flexible and adaptive
+- Community-driven consensus
+- Works without formal policy
+- Quick response to new problems
 
 **Weaknesses**:
-- ❌ Inconsistent standards
-- ❌ Subjective detection
-- ❌ No clear guidelines for edge cases
-- ❌ Risk of false positives
-- ❌ Difficult to scale
+- Inconsistent standards
+- Subjective detection
+- No clear guidelines for edge cases
+- Risk of false positives
+- Difficult to scale
 
 ---
 
@@ -501,29 +501,29 @@ One editor noted:
 **Questions to ask about Apache/FSF**:
 
 1. **Detection**:
-   - How do they detect AI-generated code?
-   - What tools do they use?
-   - Is detection easier/harder than text?
+ - How do they detect AI-generated code?
+ - What tools do they use?
+ - Is detection easier/harder than text?
 
 2. **Policy**:
-   - Do they have formal AI policies?
-   - Are policies cited in discussions?
-   - Top-down vs. bottom-up?
+ - Do they have formal AI policies?
+ - Are policies cited in discussions?
+ - Top-down vs. bottom-up?
 
 3. **Enforcement**:
-   - What happens to AI-generated PRs?
-   - Are users warned/banned?
-   - Deletion rate?
+ - What happens to AI-generated PRs?
+ - Are users warned/banned?
+ - Deletion rate?
 
 4. **Language**:
-   - What terms do they use?
-   - Pejorative vs. neutral?
-   - Similar to Wikipedia?
+ - What terms do they use?
+ - Pejorative vs. neutral?
+ - Similar to Wikipedia?
 
 5. **Philosophy**:
-   - Open-source (pragmatic) vs. free-software (ideological)?
-   - Does generation method matter?
-   - Focus on quality or provenance?
+ - Open-source (pragmatic) vs. free-software (ideological)?
+ - Does generation method matter?
+ - Focus on quality or provenance?
 
 ---
 
@@ -572,39 +572,39 @@ One editor noted:
 ### For Wikipedia:
 
 1. **Monitor policy development**
-   - Will Wikipedia:AI-generated content be adopted?
-   - What compromises will be made?
-   - Timeline for formal policy?
+ - Will Wikipedia:AI-generated content be adopted?
+ - What compromises will be made?
+ - Timeline for formal policy?
 
 2. **Track enforcement trends**
-   - Are AfD cases increasing?
-   - Is detection improving?
-   - Are false positives occurring?
+ - Are AfD cases increasing?
+ - Is detection improving?
+ - Are false positives occurring?
 
 3. **Study successful cleanups**
-   - Which AI articles were salvaged?
-   - What made cleanup feasible?
-   - Best practices emerging?
+ - Which AI articles were salvaged?
+ - What made cleanup feasible?
+ - Best practices emerging?
 
 ### For Software Project Comparison:
 
 1. **Analyze Apache Foundation**
-   - GitHub PR discussions
-   - Mailing list archives
-   - Commit message patterns
-   - Policy documents
+ - GitHub PR discussions
+ - Mailing list archives
+ - Commit message patterns
+ - Policy documents
 
 2. **Analyze FSF/GNU**
-   - Savannah discussions
-   - Mailing lists
-   - Policy statements
-   - Philosophical writings
+ - Savannah discussions
+ - Mailing lists
+ - Policy statements
+ - Philosophical writings
 
 3. **Compare governance models**
-   - Wikipedia: Bottom-up, AfD-based
-   - Apache: TBD
-   - FSF: TBD
-   - Open-source vs. free-software differences?
+ - Wikipedia: Bottom-up, AfD-based
+ - Apache: TBD
+ - FSF: TBD
+ - Open-source vs. free-software differences?
 
 ---
 
@@ -616,30 +616,30 @@ Sample: 30 AfD discussions (100 total pool)
 Time Period: 2023-2025
 
 Detection Indicators: 80 total
-  - GPT: 170 mentions
-  - ChatGPT: 155 mentions
-  - AI-generated: 67 mentions
+ - GPT: 170 mentions
+ - ChatGPT: 155 mentions
+ - AI-generated: 67 mentions
 
 Detection Tools: GPTZero (6 cases, 20%)
 
 Outcomes:
-  - Delete: 16 (59%)
-  - Keep: 3 (11%)
-  - Other: 11 (30%)
+ - Delete: 16 (59%)
+ - Keep: 3 (11%)
+ - Other: 11 (30%)
 
 Policies Cited: 51 total
-  - WP:TNT: 8
-  - WP:SIGCOV: 4
-  - WP:V: 3
-  - NO AI-specific policies
+ - WP:TNT: 8
+ - WP:SIGCOV: 4
+ - WP:V: 3
+ - NO AI-specific policies
 
 Average voters: 2.8 per discussion
 Total voters analyzed: 85
 
 Key Terms:
-  - "AI slop" (2)
-  - "hallucination" (3)
-  - "word salad" (1)
+ - "AI slop" (2)
+ - "hallucination" (3)
+ - "word salad" (1)
 ```
 
 ---

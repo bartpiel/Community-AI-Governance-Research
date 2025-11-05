@@ -1,41 +1,41 @@
 # PACKAGE_SUMMARY.md
 
-## 📦 Nonprofit Foundation Analysis - Complete Package
+## Nonprofit Foundation Analysis - Complete Package
 
 This directory contains a complete, public-ready analysis package for studying where nonprofit open source foundations store their code and how their communities communicate.
 
-### 🎯 Package Contents
+### Package Contents
 
 ```
 nonprofit-foundation-analysis/
-├── README.md                          # Main documentation
-├── requirements.txt                   # Python dependencies
-├── setup.sh                          # Setup script (executable)
-├── run_full_analysis.py              # Complete analysis runner
-├── generate_foundation_comparison.py # Comparative analysis generator
-├── .gitignore                        # Git ignore file
-├── collectors/                       # Foundation-specific collectors
-│   ├── apache_foundation_collector.py
-│   ├── eclipse_foundation_collector.py
-│   ├── linux_foundation_collector.py
-│   ├── mozilla_foundation_collector.py
-│   ├── osi_ecosystem_collector.py
-│   └── fsf_ecosystem_collector.py
-├── docs/                             # Research documentation
-│   ├── METHODOLOGY.md               # Research methods
-│   ├── KEY_FINDINGS.md              # Analysis results
-│   └── FOUNDATION_PROFILES.md       # Foundation details
-└── results/                         # Generated results directory
-    └── .gitkeep                     # Ensures directory exists
+ README.md # Main documentation
+ requirements.txt # Python dependencies
+ setup.sh # Setup script (executable)
+ run_full_analysis.py # Complete analysis runner
+ generate_foundation_comparison.py # Comparative analysis generator
+ .gitignore # Git ignore file
+ collectors/ # Foundation-specific collectors
+ apache_foundation_collector.py
+ eclipse_foundation_collector.py
+ linux_foundation_collector.py
+ mozilla_foundation_collector.py
+ osi_ecosystem_collector.py
+ fsf_ecosystem_collector.py
+ docs/ # Research documentation
+ METHODOLOGY.md # Research methods
+ KEY_FINDINGS.md # Analysis results
+ FOUNDATION_PROFILES.md # Foundation details
+ results/ # Generated results directory
+ .gitkeep # Ensures directory exists
 ```
 
-### 🚀 Quick Start for Public Use
+### Quick Start for Public Use
 
 1. **Clone/Download** the repository
 2. **Setup environment**: `./setup.sh`
 3. **Run analysis**: `source venv/bin/activate && python3 run_full_analysis.py`
 
-### 📊 Analysis Scope
+### Analysis Scope
 
 **6 Major Nonprofit Foundations:**
 - Apache Software Foundation (~400 projects)
@@ -49,7 +49,7 @@ nonprofit-foundation-analysis/
 1. Where do nonprofit foundations store their code?
 2. How do foundation communities communicate?
 
-### 🔧 Technical Features
+### Technical Features
 
 **Data Collection:**
 - GitHub API integration
@@ -68,7 +68,7 @@ nonprofit-foundation-analysis/
 - Infrastructure strategy comparison
 - Organizational model analysis
 
-### 📈 Key Findings Preview
+### Key Findings Preview
 
 **Repository Platforms:**
 - GitHub dominance: Eclipse (100%), Mozilla (100%), Apache (~95%)
@@ -81,7 +81,7 @@ nonprofit-foundation-analysis/
 - Traditional: Apache (mailing lists + GitHub), FSF (mailing lists + IRC)
 - Mixed: Linux Foundation (project-dependent approaches)
 
-### 🛠️ Customization
+### Customization
 
 **Adding New Foundations:**
 1. Create collector in `collectors/foundation_name_collector.py`
@@ -95,7 +95,7 @@ nonprofit-foundation-analysis/
 - Output formats can be customized
 - Rate limiting and API usage configurable
 
-### 📚 Documentation
+### Documentation
 
 **Comprehensive Research Documentation:**
 - **METHODOLOGY.md**: Detailed research methods and validation
@@ -107,7 +107,7 @@ nonprofit-foundation-analysis/
 - Function documentation for all major components
 - Clear variable naming and structure
 
-### ⚖️ Ethics and Compliance
+### Ethics and Compliance
 
 **Data Collection Ethics:**
 - Public data only
@@ -121,7 +121,7 @@ nonprofit-foundation-analysis/
 - Versioned analysis approach
 - Open source license (MIT)
 
-### 🤝 Community Contribution
+### Community Contribution
 
 **How to Contribute:**
 1. Fork the repository
@@ -136,7 +136,7 @@ nonprofit-foundation-analysis/
 - Deeper project metrics
 - Community engagement analysis
 
-### 📞 Usage and Citation
+### Usage and Citation
 
 **Academic Use:**
 - Cite repository and analysis date
@@ -148,7 +148,7 @@ nonprofit-foundation-analysis/
 - Attribution appreciated
 - Consider contributing improvements back
 
-### 🎯 Target Audiences
+### Target Audiences
 
 **Researchers:**
 - Open source ecosystem studies
@@ -168,7 +168,7 @@ nonprofit-foundation-analysis/
 - Communication strategy insights
 - Governance structure comparison
 
-### 📊 Sample Outputs
+### Sample Outputs
 
 **Generated Files:**
 - `apache_foundation_results.json`: Complete Apache project data
@@ -176,7 +176,7 @@ nonprofit-foundation-analysis/
 - `comprehensive_foundation_comparison.json`: Cross-foundation analysis
 - `foundation_comparison_summary.csv`: Executive summary table
 
-### 🔄 Maintenance and Updates
+### Maintenance and Updates
 
 **Regular Updates Recommended:**
 - Foundation projects evolve continuously

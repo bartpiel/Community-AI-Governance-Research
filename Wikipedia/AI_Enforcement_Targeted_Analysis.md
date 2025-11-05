@@ -92,9 +92,9 @@
 - **WP:NOR** (No Original Research): 1 citation
 
 **Notable Absence**:
-- ✗ No citations of "WP:NOTAI" (if it exists)
-- ✗ No specific AI policy citations
-- ✗ Most enforcement happens WITHOUT explicit policy citation
+- No citations of "WP:NOTAI" (if it exists)
+- No specific AI policy citations
+- Most enforcement happens WITHOUT explicit policy citation
 
 ---
 
@@ -168,9 +168,9 @@ Even in articles linked to WikiProject AI Cleanup:
 ### **2. WikiProject AI Cleanup May Focus on AI-Topic Articles**
 
 The project appears to:
-- ✅ Monitor articles **ABOUT** AI (ChatGPT, GPT, LLMs)
-- ✅ Ensure accuracy and neutrality on AI topics
-- ❓ May also monitor suspected AI-generated content (but less visible)
+- Monitor articles **ABOUT** AI (ChatGPT, GPT, LLMs)
+- Ensure accuracy and neutrality on AI topics
+- May also monitor suspected AI-generated content (but less visible)
 
 ### **3. Detection is Difficult**
 
@@ -202,27 +202,27 @@ Possible reasons for low visible enforcement:
 ### **About Wikipedia's AI Governance**:
 
 1. **Enforcement is concentrated** in specific article types
-   - AI-topic articles get most attention
-   - Random articles rarely affected
+ - AI-topic articles get most attention
+ - Random articles rarely affected
 
 2. **Enforcement is often implicit**
-   - Actions taken without mentioning "AI"
-   - Quality standards enforced indirectly
+ - Actions taken without mentioning "AI"
+ - Quality standards enforced indirectly
 
 3. **WikiProject AI Cleanup's role**
-   - Monitors AI-related articles (quality control)
-   - May also track AI-generated content (but less visible)
-   - Acts as subject-matter expert hub
+ - Monitors AI-related articles (quality control)
+ - May also track AI-generated content (but less visible)
+ - Acts as subject-matter expert hub
 
 ### **About Methodology**:
 
 4. **Random sampling fails** for rare enforcement events
-   - Need targeted, strategic sampling
-   - Follow the enforcement trail
+ - Need targeted, strategic sampling
+ - Follow the enforcement trail
 
 5. **Keyword search has limits**
-   - "AI" appears in many non-enforcement contexts
-   - Need semantic understanding of enforcement
+ - "AI" appears in many non-enforcement contexts
+ - Need semantic understanding of enforcement
 
 ---
 
@@ -286,22 +286,22 @@ Based on this analysis, the project appears to have **dual focus**:
 ### **Immediate Priorities**:
 
 1. **Analyze the GPTZero case in depth**
-   - What happened after the AI-generated tag?
-   - How was content cleaned up?
-   - Community response?
+ - What happened after the AI-generated tag?
+ - How was content cleaned up?
+ - Community response?
 
 2. **Search for more AI-generated tags**
-   - Find other articles with {{AI-generated}} template
-   - Build case study collection
+ - Find other articles with {{AI-generated}} template
+ - Build case study collection
 
 3. **Interview WikiProject AI Cleanup members**
-   - How do they identify AI content?
-   - What's their process?
-   - What challenges do they face?
+ - How do they identify AI content?
+ - What's their process?
+ - What challenges do they face?
 
 4. **Compare enforcement patterns**
-   - Do other WikiProjects show similar patterns?
-   - Is AI enforcement unique or similar to other quality control?
+ - Do other WikiProjects show similar patterns?
+ - Is AI enforcement unique or similar to other quality control?
 
 ---
 
@@ -310,31 +310,31 @@ Based on this analysis, the project appears to have **dual focus**:
 ### **For Future Wikipedia AI Research**:
 
 1. **Use targeted sampling**
-   - Follow WikiProject links
-   - Search for specific templates/tags
-   - Track specific enforcers
+ - Follow WikiProject links
+ - Search for specific templates/tags
+ - Track specific enforcers
 
 2. **Combine quantitative + qualitative**
-   - Count actions (what we did)
-   - Read discussions (deeper understanding)
-   - Interview participants (insider knowledge)
+ - Count actions (what we did)
+ - Read discussions (deeper understanding)
+ - Interview participants (insider knowledge)
 
 3. **Look beyond keywords**
-   - AI enforcement may not mention "AI"
-   - Quality standards applied indirectly
-   - Context matters
+ - AI enforcement may not mention "AI"
+ - Quality standards applied indirectly
+ - Context matters
 
 ### **For Comparing with Software Projects**:
 
 4. **Expect different patterns**
-   - Code enforcement may be more explicit
-   - Different detection mechanisms
-   - Different community norms
+ - Code enforcement may be more explicit
+ - Different detection mechanisms
+ - Different community norms
 
 5. **Use domain-appropriate methods**
-   - Wikipedia: Edit history + talk pages
-   - GitHub: PR comments + issue discussions
-   - Different APIs, different structures
+ - Wikipedia: Edit history + talk pages
+ - GitHub: PR comments + issue discussions
+ - Different APIs, different structures
 
 ---
 
