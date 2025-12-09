@@ -1,6 +1,6 @@
 # Nonprofit Foundation Analysis: Repository Platforms & Communication Channels
 
-A comprehensive analysis of where major nonprofit open source foundations store their code and how their communities communicate.
+Preliminary research analyzing where major nonprofit open source foundations store their code and how their communities communicate.
 
 ## Analysis Overview
 

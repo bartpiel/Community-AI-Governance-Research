@@ -390,11 +390,9 @@ This analysis is part of a larger comparative study:
 
 ---
 
-## Contact & Contributions
+## Research Notes
 
-This is academic research. For questions or collaboration:
-- Open an issue in this repository
-- Contributions welcome (additional analysis, corrections, extensions)
+This analysis presents preliminary research findings on Wikipedia's AI governance. The research was conducted in October-November 2025.
 
 ---
 

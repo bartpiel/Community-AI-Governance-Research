@@ -209,11 +209,11 @@ This study examines AI governance across multiple dimensions:
 
 **Entry Points**:
 1. [`Wikipedia/README.md`](Wikipedia/README.md) - Overview and navigation
-2. [`Wikipedia/EXECUTIVE_SUMMARY.md`](Wikipedia/EXECUTIVE_SUMMARY.md) - Complete findings 
+2. [`Wikipedia/EXECUTIVE_SUMMARY.md`](Wikipedia/EXECUTIVE_SUMMARY.md) - Complete findings
 3. [`Wikipedia/QUICK_REFERENCE.md`](Wikipedia/QUICK_REFERENCE.md) - Key statistics
 
 **Detailed Reports**:
-- [`Wikipedia_AfD_AI_Detection_Analysis.md`](Wikipedia/Wikipedia_AfD_AI_Detection_Analysis.md) - How editors detect AI (19 KB) 
+- [`Wikipedia_AfD_AI_Detection_Analysis.md`](Wikipedia/Wikipedia_AfD_AI_Detection_Analysis.md) - How editors detect AI (19 KB)
 - [`Wikipedia_WikiProject_AI_Policy_Analysis.md`](Wikipedia/Wikipedia_WikiProject_AI_Policy_Analysis.md) - Governance structure (18 KB)
 - [`Wikipedia_AI_Policy_Citation_Analysis_2025.md`](Wikipedia/Wikipedia_AI_Policy_Citation_Analysis_2025.md) - Quantitative policy data (8 KB)
 
@@ -345,7 +345,7 @@ This study examines AI governance across multiple dimensions:
 
 ---
 
-## How to Use This Repository
+## How to Navigate This Repository
 
 ### For Quick Overview (30 minutes)
 
@@ -353,7 +353,7 @@ This study examines AI governance across multiple dimensions:
 2. Read [`Wikipedia/EXECUTIVE_SUMMARY.md`](Wikipedia/EXECUTIVE_SUMMARY.md)
 3. Review [`Wikipedia/QUICK_REFERENCE.md`](Wikipedia/QUICK_REFERENCE.md)
 
-### For Deep Dive (4-6 hours)
+### For Detailed Understanding (4-6 hours)
 
 1. Start with this README
 2. Read Wikipedia complete findings
@@ -364,22 +364,13 @@ This study examines AI governance across multiple dimensions:
 ### For Replication
 
 1. All Wikipedia analysis scripts included
-2. Foundation collectors ready to run
+2. Foundation collectors available
 3. Complete data files provided
 4. Methodology fully documented
 
-### For Collaboration
-
-1. Wikipedia analysis complete - ready for review
-2. Foundation framework ready - ready for execution
-3. Comparative framework established
-4. Open for contributions and extensions
-
 ---
 
-## Contributors & Acknowledgments
-
-**Research Team**: [Your information]
+## Acknowledgments
 
 **Data Sources**:
 - Wikipedia/Wikimedia Foundation (via Action API)
@@ -419,11 +410,9 @@ Methodology: Mixed methods (quantitative API analysis + qualitative discussion a
 
 ---
 
-## Contact
+## Research Outputs
 
-For questions, collaboration, or contributions:
-- Open an issue in this repository
-- Contributions welcome (additional analysis, corrections, extensions)
+This repository contains preliminary research findings from a comparative study of AI governance in open communities. The analysis is ongoing and findings are subject to refinement.
 
 ---
 
@@ -431,7 +420,7 @@ For questions, collaboration, or contributions:
 
 ### Wikipedia Analysis
 - [Wikipedia README](Wikipedia/README.md)
-- [Wikipedia Executive Summary](Wikipedia/EXECUTIVE_SUMMARY.md) 
+- [Wikipedia Executive Summary](Wikipedia/EXECUTIVE_SUMMARY.md)
 - [Wikipedia Quick Reference](Wikipedia/QUICK_REFERENCE.md)
 - [AfD Detection Analysis](Wikipedia/Wikipedia_AfD_AI_Detection_Analysis.md) (most detailed)
 
@@ -472,5 +461,5 @@ Phase 3: Comparative Analysis ⏳ PLANNED
 ---
 
 **Last Updated**: November 4, 2025
-**Status**: Phase 1 Complete | Phase 2 Framework Ready | Ready for Colleague Review
-**Next**: Execute foundation analysis and comparative synthesis
+**Status**: Phase 1 Complete | Phase 2 Framework Ready
+**Research Period**: October-November 2025

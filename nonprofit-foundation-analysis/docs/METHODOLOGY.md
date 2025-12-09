@@ -117,7 +117,7 @@ This analysis examines **6 major nonprofit open source foundations** to understa
 - **Open Source**: All analysis code publicly available
 - **Reproducible**: Methods documented for verification
 - **Updated**: Acknowledgment of temporal nature of findings
-- **Collaborative**: Open to community corrections and improvements
+- **Documented**: Methodology and findings clearly presented
 
 ## Technical Implementation
 
